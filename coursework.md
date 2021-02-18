@@ -3,12 +3,11 @@
 Haha, I changed something ;) SM
 
 how dare you! :D
-<<<<<<< HEAD
 
 # Title
 
-* Point 1
-* Point 2
+- Point 1
+- Point 2
 
 ---
 
@@ -17,6 +16,7 @@ how dare you! :D
 > Best quote ever.
 
 Note: speaker notes FTW!
+<<<<<<< HEAD
 =======
 
 
@@ -46,3 +46,5 @@ Note: test note
 
 <!--v-->
 
+=======
+>>>>>>> b61c4dab2f55bf4a1721afb64f3d8c443c6940d1
