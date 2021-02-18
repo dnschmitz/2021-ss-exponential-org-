@@ -3,12 +3,11 @@
 Haha, I changed something ;) SM
 
 how dare you! :D
-<<<<<<< HEAD
 
 # Title
 
-* Point 1
-* Point 2
+- Point 1
+- Point 2
 
 ---
 
@@ -17,12 +16,3 @@ how dare you! :D
 > Best quote ever.
 
 Note: speaker notes FTW!
-=======
-
-
-
-
-
-
-**ahahah, funny staff ;)**
->>>>>>> d5e58b488a9fa3af590c9c940961dad976b9c4c4
