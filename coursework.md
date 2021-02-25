@@ -1,50 +1,33 @@
 # Exponential Organisation
 
-Haha, I changed something ;) SM
+Silvia Martin and Dominique Schmitz
 
-how dare you! :D
 
-# Title
 
-- Point 1
-- Point 2
+
+
+
 
 ---
 
-## Second slide
+## Definition
 
-> Best quote ever.
+> exponential organisations are....
 
-Note: speaker notes FTW!
-<<<<<<< HEAD
+
+
+
+
+
+
+
+---
+
+
+
+
+# slide 3
+
+---
 =======
 
-
-
-
-
-
-**ahahah, funny staff ;)**
->>>>>>> d5e58b488a9fa3af590c9c940961dad976b9c4c4
-
-
----
-title: Foobar
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: solarized
-revealOptions:
-    transition: 'fade'
----
-Foo
-
-Note: test note
-
-<!--s-->
-
-# Bar
-
-<!--v-->
-
-=======
->>>>>>> b61c4dab2f55bf4a1721afb64f3d8c443c6940d1
