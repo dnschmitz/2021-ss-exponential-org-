@@ -37,7 +37,7 @@ hand drawn pictures/graphs
 
 
 
-# slide 3
+# Slide 3
 
 ---
 =======
