@@ -52,7 +52,7 @@ Creation of an ecosystem
 
 3D printing
 
-\$\40.000 in 2007 to \$\100 in 2014: - 400% in 7 years
+\\$40.000 in 2007 to \\$\100 in 2014: - 400% in 7 years
 
 Industrial Robots
 
