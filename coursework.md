@@ -31,14 +31,11 @@ not a mission statement
 
 ---
 
-MTP has the "power to pull" a community around the ExO
+### MTP has the "power to pull" a community around the ExO
 
 Creation of an ecosystem
+![Examples 2 ](IMG_077723.jpg)
 
-![Examples 2 ](IMG_0777.jpeg)
-
-waiting lines outside Apple stores
-waiting lists for TED's annual conference
 
 ---
 
