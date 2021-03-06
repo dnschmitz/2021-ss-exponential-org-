@@ -2,14 +2,9 @@
 
 <span style="color:yellow">*By Silvia Martin and Dominique Schmitz*</span>
 
-=======
-Silvia Martin and Dominique Schmitz
->>>>>>> 48bfd45081ba8e6a663d6b28ab3a11076806a258
-
-
 ---
 
-# Definition
+### Definition
 
 ---
 
@@ -17,25 +12,16 @@ Silvia Martin and Dominique Schmitz
 > ![Exponential development](IMG_0777.jpg))
 
 ---
-<<<<<<< HEAD
-# Examples of exOs
+### Examples
 ![Examples](MicrosoftTeams-image2.jpg)
-=======
-
-# Examples
->>>>>>> 48bfd45081ba8e6a663d6b28ab3a11076806a258
 
 ---
 
-![Examples](MicrosoftTeams-image.png)
+### Massive Transformative Purpose (MTP)
 
 ---
 
-# Massive Transformative Purpose (MTP)
-
----
-
-## Massive Transformative Purpose (MTP)
+### Massive Transformative Purpose (MTP)
 
 capture heart and mind of people inside and outside the organization with a very aspirational position statement
 not a mission statement
@@ -51,57 +37,61 @@ waiting lines outside Apple stores
 waiting lists for TED's annual conference
 
 ---
+![Brain](IMG_0772.jpg)
+---
+
+### The external attributes: SCALE
 
 ---
 
-# The external attributes: SCALE
+### Staff on demand
 
 ---
 
-# Staff on demand
+### Community and Crowd
 
 ---
 
-# Community and Crowd
+### Algorithms
 
 ---
 
-# Algorithms
+### Leveraged Assets
 
 ---
 
-# Leveraged Assets
+### Engagement
 
 ---
 
-# Engagement
+### The internal attributes: IDEAS
 
 ---
 
-# The internal attributes: IDEAS
+### Interfaces
 
 ---
 
-# Interfaces
+### Dashboards
 
 ---
 
-# Dashboards
+### Experimentation
 
 ---
 
-# Experimentation
+### Autonomy
 
 ---
 
-# Autonomy
+### Social Technologies
 
 ---
 
-# Social Technologies
+# Questions?
 
 ---
 
-#
+### Thank you for your Attention!
 
-=======
+---
