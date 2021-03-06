@@ -1,7 +1,7 @@
 # Exponential Organisation
 
 <<<<<<< HEAD
-<span style="color:yellow">* By Silvia Martin and Dominique Schmitz*</span>
+<span style="color:yellow">*By Silvia Martin and Dominique Schmitz*</span>
 
 =======
 Silvia Martin and Dominique Schmitz
