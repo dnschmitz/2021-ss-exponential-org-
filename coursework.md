@@ -22,7 +22,7 @@ Silvia Martin and Dominique Schmitz
 
 # Examples
 
-<span style="color:yellow">some _blue_ text</span>
+---
 
 ![Examples](MicrosoftTeams-image.png)
 
