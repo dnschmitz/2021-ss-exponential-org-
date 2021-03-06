@@ -1,6 +1,7 @@
 # Exponential Organisation
 
-Silvia Martin and Dominique Schmitz
+<span style="color:yellow">*Silvia Martin and Dominique Schmitz*</span>
+
 
 make it appealing for peers
 
@@ -18,9 +19,7 @@ hand drawn pictures/graphs
 
 ---
 # Examples
-<span style="color:yellow">some *blue* text</span>
-
-![Examples](MicrosoftTeams-image.png)
+![Examples](MicrosoftTeams-image2.jpg)
 
 
 ---
