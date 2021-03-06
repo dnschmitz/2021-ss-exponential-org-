@@ -50,15 +50,15 @@ Creation of an ecosystem
 
 ### Examples of Cost Scale
 
-3D printing
+<u>Industrial Robots</u>
+
+<span>$</span>500.000 in 2008 to <span>$</span>22.000 in 2013: - 23x in 5 years
+
+<u>3D printing</u>
 
 <span>$</span>40.000 in 2007 to <span>$</span>100 in 2014: - 400x in 7 years
 
-Industrial Robots
-
-<span>$</span>500.000 in 2008 to <span>$</span>22.000 in 2013: - 23x in 5 year
-
-Biotech (DNA Sequencing)
+<u>Biotech (DNA Sequencing)</u>
 
 <span>$</span>10.000.000 in 2007 to <span>$</span>1.000 in 2014: - 10.000x in 7 years
 
