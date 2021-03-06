@@ -17,6 +17,13 @@ hand drawn pictures/graphs
 > exponential organisations are....
 
 ---
+# Examples
+<span style="color:yellow">some *blue* text</span>
+
+![Examples](MicrosoftTeams-image.png)
+
+
+---
 
 # Massive Transformative Purpose (MTP)
 
