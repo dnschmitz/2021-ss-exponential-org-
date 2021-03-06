@@ -1,7 +1,6 @@
 # Exponential Organisation
 
-<span style="color:yellow">*Silvia Martin and Dominique Schmitz*</span>
-
+Silvia Martin and Dominique Schmitz
 
 make it appealing for peers
 
@@ -15,12 +14,18 @@ hand drawn pictures/graphs
 
 # Definition
 
+---
+
 > exponential organisations are....
+> ![Exponential development](IMG_0777.jpg))
 
 ---
-# Examples
-![Examples](MicrosoftTeams-image2.jpg)
 
+# Examples
+
+<span style="color:yellow">some _blue_ text</span>
+
+![Examples](MicrosoftTeams-image.png)
 
 ---
 
