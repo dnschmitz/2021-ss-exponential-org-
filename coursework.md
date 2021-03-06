@@ -25,7 +25,7 @@ Silvia Martin and Dominique Schmitz
 # Examples
 >>>>>>> 48bfd45081ba8e6a663d6b28ab3a11076806a258
 
-<span style="color:yellow">some _blue_ text</span>
+---
 
 ![Examples](MicrosoftTeams-image.png)
 
