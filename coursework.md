@@ -3,10 +3,12 @@
 <span style="color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
-### Definition
-* impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
 
-* grows faster, bigger and cheaper than competition because it has a  <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
+### Definition
+
+- impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
+
+- grows faster, bigger and cheaper than competition because it has a <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
 
 ---
 
@@ -36,7 +38,6 @@ not a mission statement
 Creation of an ecosystem
 ![Examples 2 ](IMG_077723.jpg)
 
-
 ---
 
 ## ![Brain](IMG_0772.jpg)
@@ -51,10 +52,9 @@ Creation of an ecosystem
 
 3D printing
 
-40.000\$ in 2007 to 100 \$ in 2014: - 400% in 7 years
+\$40.000 in 2007 to \$100 in 2014: - 400% in 7 years
 
 Industrial Robots
-
 
 ---
 
@@ -101,26 +101,28 @@ Industrial Robots
 ### Social Technologies
 
 ---
-### Summary of Characteristics 
 
-| <span style="color:yellow">_Linear Organisation_</span>| <span style="color:yellow">_ExO_</span>| 
-| ------------- |-------------| 
-| Top-down & hierarchical in its orga | Autonomy, social technologies | 
-| Driven by financial outcomes | MTP, dashboard |   
-| Linear, sequential thinking | Experimentation, autonomy|
-| Innovation primarily from within | Community & crowd, staff on demand, leveraged assets, interfaces (innovation at the edges) |
-| .. | .. | 
+### Summary of Characteristics
+
+| <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>                                                    |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Top-down & hierarchical in its orga                     | Autonomy, social technologies                                                              |
+| Driven by financial outcomes                            | MTP, dashboard                                                                             |
+| Linear, sequential thinking                             | Experimentation, autonomy                                                                  |
+| Innovation primarily from within                        | Community & crowd, staff on demand, leveraged assets, interfaces (innovation at the edges) |
+| ..                                                      | ..                                                                                         |
 
 ---
-| <span style="color:yellow">_Linear Organisation_</span>| <span style="color:yellow">_ExO_</span>| 
-| ------------- |-------------| 
-| strategic planning largely an extrapolation from the past | MTP, experimentation |
-|Risk intolerance | Experimentation |
-| Process inflexibility | Autonomy, experimentation |
-| Large number of FTEs | Algorithms, community & crowd, staff om demand |
-| Controls/owns its own assets | Leveraged assets |
-| Strongly invested in status quo | MTP, Dashboards, Experimentation |
-| .. | .. | 
+
+| <span style="color:yellow">_Linear Organisation_</span>   | <span style="color:yellow">_ExO_</span>        |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| strategic planning largely an extrapolation from the past | MTP, experimentation                           |
+| Risk intolerance                                          | Experimentation                                |
+| Process inflexibility                                     | Autonomy, experimentation                      |
+| Large number of FTEs                                      | Algorithms, community & crowd, staff om demand |
+| Controls/owns its own assets                              | Leveraged assets                               |
+| Strongly invested in status quo                           | MTP, Dashboards, Experimentation               |
+| ..                                                        | ..                                             |
 
 ---
 
