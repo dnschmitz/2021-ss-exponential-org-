@@ -3,12 +3,13 @@
 <span style="color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
-
 ### Definition
+* impact/output disproportionately large <span style="color:yellow">_at least 10 times larger_</span> compared to its peers because of new organizational techniques that leverage accelerating technologies
+
+* grows faster, bigger and cheaper than competition because it has a Massive Transformative Purpose (MTP) and scales as quickly as tech does
 
 ---
 
-> exponential organisations are....
 > ![Exponential development](IMG_0777.jpg)
 
 ---
