@@ -1,14 +1,11 @@
 # Exponential Organisation
 
+<span style="color:yellow">*By Silvia Martin and Dominique Schmitz*</span>
+
+=======
 Silvia Martin and Dominique Schmitz
+>>>>>>> 48bfd45081ba8e6a663d6b28ab3a11076806a258
 
-make it appealing for peers
-
-design
-
-content
-
-hand drawn pictures/graphs
 
 ---
 
@@ -20,8 +17,13 @@ hand drawn pictures/graphs
 > ![Exponential development](IMG_0777.jpg)
 
 ---
+<<<<<<< HEAD
+# Examples of exOs
+![Examples](MicrosoftTeams-image2.jpg)
+=======
 
 # Examples
+>>>>>>> 48bfd45081ba8e6a663d6b28ab3a11076806a258
 
 <span style="color:yellow">some _blue_ text</span>
 
