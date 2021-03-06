@@ -1,15 +1,8 @@
 # Exponential Organisation
 
-<span style="color:yellow">*Silvia Martin and Dominique Schmitz*</span>
+<span style="color:yellow">* By Silvia Martin and Dominique Schmitz*</span>
 
 
-make it appealing for peers
-
-design
-
-content
-
-hand drawn pictures/graphs
 
 ---
 
@@ -18,7 +11,7 @@ hand drawn pictures/graphs
 > exponential organisations are....
 
 ---
-# Examples
+# Examples of exOs
 ![Examples](MicrosoftTeams-image2.jpg)
 
 
