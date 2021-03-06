@@ -12,6 +12,13 @@
 
 ---
 
+Law of Accelerating Returns (LOAR) of Kurzweiler:
+
+- Moore's Law -> price/performance of information technology doubles every 18 months
+- information-enabled and driven domains, disciplines, technologies and industries double their price/performance annually
+
+---
+
 > ![Exponential development](IMG_0777.jpg)
 
 ---
