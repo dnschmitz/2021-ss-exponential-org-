@@ -1,6 +1,5 @@
 # Exponential Organisation
 
-<<<<<<< HEAD
 <span style="color:yellow">*By Silvia Martin and Dominique Schmitz*</span>
 
 =======
