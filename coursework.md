@@ -41,6 +41,8 @@ Creation of an ecosystem
 
 ## ![Brain](IMG_0772.jpg)
 
+---
+
 ### The external attributes: SCALE
 
 ---
@@ -49,9 +51,10 @@ Creation of an ecosystem
 
 3D printing
 
-40.000$ in 2007 to 100$ in 2014: - 400% in 7 years
+40.000\$ in 2007 to 100 \$ in 2014: - 400% in 7 years
 
 Industrial Robots
+
 
 ---
 
@@ -98,7 +101,7 @@ Industrial Robots
 ### Social Technologies
 
 ---
-### Characteristics 
+### Summary of Characteristics 
 
 | <span style="color:yellow">_Linear Organisation_</span>| <span style="color:yellow">_ExO_</span>| 
 | ------------- |-------------| 
@@ -118,9 +121,6 @@ Industrial Robots
 | Controls/owns its own assets | Leveraged assets |
 | Strongly invested in status quo | MTP, Dashboards, Experimentation |
 | .. | .. | 
-
----
-
 
 ---
 
