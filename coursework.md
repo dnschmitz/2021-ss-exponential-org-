@@ -17,7 +17,7 @@ hand drawn pictures/graphs
 ---
 
 > exponential organisations are....
-> ![Exponential development](IMG_0777.jpg))
+> ![Exponential development](IMG_0777.jpg)
 
 ---
 
