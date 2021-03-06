@@ -22,7 +22,22 @@ hand drawn pictures/graphs
 
 ---
 
-capture :hearts: and :brain:
+## Massive Transformative Purpose (MTP)
+
+capture heart and mind of people inside and outside the organization with a very aspirational position statement
+not a mission statement
+
+---
+
+MTP has the "power to pull" a community around the ExO
+
+Creation of an ecosystem
+
+Examples:
+waiting lines outside Apple stores
+waiting lists for TED's annual conference
+
+---
 
 ---
 
