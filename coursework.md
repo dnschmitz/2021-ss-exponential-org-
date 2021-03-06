@@ -1,6 +1,6 @@
 # Exponential Organisation
 
-<span style="color:yellow">*By Silvia Martin and Dominique Schmitz*</span>
+<span style="color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
 
@@ -9,7 +9,7 @@
 ---
 
 > exponential organisations are....
-> ![Exponential development](IMG_0777.jpg))
+> ![Exponential development](IMG_0777.jpg)
 
 ---
 ### Examples
