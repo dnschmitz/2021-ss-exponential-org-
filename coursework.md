@@ -4,9 +4,9 @@
 
 ---
 ### Definition
-* impact/output disproportionately large <span style="color:yellow">_at least 10 times larger_</span> compared to its peers because of new organizational techniques that leverage accelerating technologies
+* impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
 
-* grows faster, bigger and cheaper than competition because it has a Massive Transformative Purpose (MTP) and scales as quickly as tech does
+* grows faster, bigger and cheaper than competition because it has a  <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
 
 ---
 
@@ -35,7 +35,8 @@ MTP has the "power to pull" a community around the ExO
 
 Creation of an ecosystem
 
-Examples:
+![Examples 2 ](IMG_0777.jpeg)
+
 waiting lines outside Apple stores
 waiting lists for TED's annual conference
 
