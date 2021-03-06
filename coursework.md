@@ -22,6 +22,10 @@ hand drawn pictures/graphs
 
 ---
 
+capture :hearts: and :brain:
+
+---
+
 # The external attributes: SCALE
 
 ---
