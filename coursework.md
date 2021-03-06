@@ -98,6 +98,31 @@ Industrial Robots
 ### Social Technologies
 
 ---
+### Characteristics 
+
+| <span style="color:yellow">_Linear Organisation_</span>| <span style="color:yellow">_ExO_</span>| 
+| ------------- |-------------| 
+| Top-down & hierarchical in its orga | Autonomy, social technologies | 
+| Driven by financial outcomes | MTP, dashboard |   
+| Linear, sequential thinking | Experimentation, autonomy|
+| Innovation primarily from within | Community & crowd, staff on demand, leveraged assets, interfaces (innovation at the edges) |
+| .. | .. | 
+
+---
+| <span style="color:yellow">_Linear Organisation_</span>| <span style="color:yellow">_ExO_</span>| 
+| ------------- |-------------| 
+| strategic planning largely an extrapolation from the past | MTP, experimentation |
+|Risk intolerance | Experimentation |
+| Process inflexibility | Autonomy, experimentation |
+| Large number of FTEs | Algorithms, community & crowd, staff om demand |
+| Controls/owns its own assets | Leveraged assets |
+| Strongly invested in status quo | MTP, Dashboards, Experimentation |
+| .. | .. | 
+
+---
+
+
+---
 
 # Questions?
 
