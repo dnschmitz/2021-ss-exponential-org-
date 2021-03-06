@@ -52,15 +52,15 @@ Creation of an ecosystem
 
 3D printing
 
-40.000\$ in 2007 to 100 \$ in 2014: - 400x in 7 years
+<span>$</span>40.000 in 2007 to <span>$</span>100 in 2014: - 400x in 7 years
 
 Industrial Robots
 
-500.000$ in 2008 to 22.000 in 2013: - 23x in 5 year
+<span>$</span>500.000 in 2008 to <span>$</span>22.000 in 2013: - 23x in 5 year
 
 Biotech (DNA Sequencing)
 
-10.000.000 in 2007 to 1.000 in 2014: - 10.000x in 7 years
+<span>$</span>10.000.000 in 2007 to <span>$</span>1.000 in 2014: - 10.000x in 7 years
 
 ---
 
