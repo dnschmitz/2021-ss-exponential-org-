@@ -43,6 +43,17 @@ waiting lists for TED's annual conference
 ### The external attributes: SCALE
 
 ---
+### Examples of Cost Scale
+
+3D printing
+
+$40.000 in 2007 to $100 in 2014: - 400% in 7 years
+
+Industrial Robots
+
+
+
+---
 
 ### Staff on demand
 
@@ -92,6 +103,6 @@ waiting lists for TED's annual conference
 
 ---
 
-### Thank you for your Attention!
+### Thank you for your Attention
 
 ---
