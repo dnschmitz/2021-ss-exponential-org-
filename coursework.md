@@ -39,7 +39,8 @@ Iridium moment: applying linear tools, processes, or trends of the past to predi
 
 ---
 
-"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>"
+"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
+
 David S. Rose
 
 ---
