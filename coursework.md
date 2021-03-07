@@ -124,11 +124,22 @@ Creation of an ecosystem
 ### Interfaces
 
 - Process that closes gap between <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
-- 
+- Interfaces are customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software 
+
+---
+### Google's AdWords
+
+![Example](MicrosoftTeams-image22.png) --> muss kleiner
+
+
+
 
 ---
 
+
 ### Dashboards
+
+- Track and monitor performance using real-time metrics & performance tracking techniques
 
 ---
 
