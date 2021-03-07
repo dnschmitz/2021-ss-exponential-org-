@@ -39,6 +39,11 @@ Iridium moment: applying linear tools, processes, or trends of the past to predi
 
 ---
 
+"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>"
+David S. Rose
+
+---
+
 ### Exponential Organizations (ExO)
 
 Latest embodiment of acceleration
@@ -124,18 +129,15 @@ Creation of an ecosystem
 ### Interfaces
 
 - Process that closes gap between <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
-- Interfaces are customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software 
+- Interfaces are customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
 
 ---
+
 ### Google's AdWords
 
 ![Example](MicrosoftTeams-image22.png) --> muss kleiner
 
-
-
-
 ---
-
 
 ### Dashboards
 
