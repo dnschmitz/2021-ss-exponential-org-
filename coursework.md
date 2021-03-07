@@ -35,7 +35,7 @@
 
 Iridium moment: applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
 
-![Kurzweil example](Kurzweil.jpg)
+![Kurzweil example](Kurzweil.png)
 
 ---
 
