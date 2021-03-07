@@ -6,7 +6,7 @@
 
 ### Law of Accelerating Returns (LOAR) of Kurzweiler:
 
-- Moore's Law -> price/performance of information technology doubles every 18 months
+- Moore's Law -> price/performance of information technology doubles every year or two
 - information-enabled and driven domains, disciplines, technologies and industries double their price/performance annually
 - Once the doubling pattern starts, it doesn't stop
 - modern key technologies are information-enabled and follow the same trajectory
@@ -43,6 +43,8 @@ Iridium moment: applying linear tools, processes, or trends of the past to predi
 
 Latest embodiment of acceleration
 
+Companies that work in an information-based environment, that delivers fundamentally disruptive opportunities
+
 ---
 
 ### Definition
@@ -59,7 +61,11 @@ Latest embodiment of acceleration
 
 ---
 
-### Massive Transformative Purpose (MTP)
+Even traditional industries are more and more information-enabled and with this disruption occurs
+
+Disruptive breakthroughs occur when disparate fields cross
+
+[Industrial revolution] (Industrial revolution.png)
 
 ---
 
@@ -67,6 +73,10 @@ Latest embodiment of acceleration
 
 capture heart and mind of people inside and outside the organization with a very aspirational position statement
 not a mission statement
+
+---
+
+### Massive Transformative Purpose (MTP)
 
 ---
 
