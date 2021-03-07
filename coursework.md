@@ -4,22 +4,40 @@
 
 ---
 
+### Law of Accelerating Returns (LOAR) of Kurzweiler:
+
+- Moore's Law -> price/performance of information technology doubles every 18 months
+- information-enabled and driven domains, disciplines, technologies and industries double their price/performance annually
+- Once the doubling pattern starts, it doesn't stop
+- modern key technologies are information-enabled and follow the same trajectory
+
+---
+
+> ![Exponential development](IMG_0777.jpg)
+
+---
+
+### Examples of Cost Scale
+
+<u>Industrial Robots</u>
+
+<span>$</span>500.000 in 2008 to <span>$</span>22.000 in 2013: - 23x in 5 years
+
+<u>3D printing</u>
+
+<span>$</span>40.000 in 2007 to <span>$</span>100 in 2014: - 400x in 7 years
+
+<u>Biotech (DNA Sequencing)</u>
+
+<span>$</span>10.000.000 in 2007 to <span>$</span>1.000 in 2014: - 10.000x in 7 years
+
+---
+
 ### Definition
 
 - impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
 
 - grows faster, bigger and cheaper than competition because it has a <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
-
----
-
-Law of Accelerating Returns (LOAR) of Kurzweiler:
-
-- Moore's Law -> price/performance of information technology doubles every 18 months
-- information-enabled and driven domains, disciplines, technologies and industries double their price/performance annually
-
----
-
-> ![Exponential development](IMG_0777.jpg)
 
 ---
 
@@ -55,22 +73,6 @@ Creation of an ecosystem
 
 ---
 
-### Examples of Cost Scale
-
-<u>Industrial Robots</u>
-
-<span>$</span>500.000 in 2008 to <span>$</span>22.000 in 2013: - 23x in 5 years
-
-<u>3D printing</u>
-
-<span>$</span>40.000 in 2007 to <span>$</span>100 in 2014: - 400x in 7 years
-
-<u>Biotech (DNA Sequencing)</u>
-
-<span>$</span>10.000.000 in 2007 to <span>$</span>1.000 in 2014: - 10.000x in 7 years
-
----
-
 ### Staff on demand
 
 ---
@@ -95,13 +97,12 @@ Creation of an ecosystem
 
 ![Example](MicrosoftTeams-image.png)
 
-
 ---
 
 ### Interfaces
 
 - filtering and matching processes by which ExOs bridge from <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
-- 
+-
 
 ---
 
@@ -155,6 +156,6 @@ Creation of an ecosystem
 
 ### Main Source
 
-Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) 
+Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
 ---
