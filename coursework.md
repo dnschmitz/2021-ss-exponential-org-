@@ -4,54 +4,16 @@
 
 ---
 
-### Definition
+### Law of Accelerating Returns (LOAR) of Kurzweiler:
 
-- impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
-
-- grows faster, bigger and cheaper than competition because it has a <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
-
----
-
-Law of Accelerating Returns (LOAR) of Kurzweiler:
-
-- Moore's Law -> price/performance of information technology doubles every 18 months
+- Moore's Law -> price/performance of information technology doubles every year or two
 - information-enabled and driven domains, disciplines, technologies and industries double their price/performance annually
+- Once the doubling pattern starts, it doesn't stop
+- modern key technologies are information-enabled and follow the same trajectory
 
 ---
 
 > ![Exponential development](IMG_0777.jpg)
-
----
-
-### Examples
-
-![Examples](MicrosoftTeams-image2.jpg)
-
----
-
-### Massive Transformative Purpose (MTP)
-
----
-
-### Massive Transformative Purpose (MTP)
-
-capture heart and mind of people inside and outside the organization with a very aspirational position statement
-not a mission statement
-
----
-
-### MTP has the "power to pull" a community around the ExO
-
-Creation of an ecosystem
-![Examples 2 ](IMG_077723.jpg)
-
----
-
-## ![Brain](IMG_0772.jpg)
-
----
-
-### The external attributes: SCALE
 
 ---
 
@@ -68,6 +30,68 @@ Creation of an ecosystem
 <u>Biotech (DNA Sequencing)</u>
 
 <span>$</span>10.000.000 in 2007 to <span>$</span>1.000 in 2014: - 10.000x in 7 years
+
+---
+
+Iridium moment: applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
+
+![Kurzweil example](Kurzweil.png)
+
+---
+
+### Exponential Organizations (ExO)
+
+Latest embodiment of acceleration
+
+Companies that work in an information-based environment, that delivers fundamentally disruptive opportunities
+
+---
+
+### Definition
+
+- impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
+
+- grows faster, bigger and cheaper than competition because it has a <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
+
+---
+
+### Examples
+
+![Examples](MicrosoftTeams-image2.jpg)
+
+---
+
+Even traditional industries are more and more information-enabled and with this disruption occurs
+
+Disruptive breakthroughs occur when disparate fields cross
+
+![Industrial revolution](Industrialrevolution.png)
+
+---
+
+### Massive Transformative Purpose (MTP)
+
+capture heart and mind of people inside and outside the organization with a very aspirational position statement
+not a mission statement
+
+---
+
+### Massive Transformative Purpose (MTP)
+
+---
+
+### MTP has the "power to pull" a community around the ExO
+
+Creation of an ecosystem
+![Examples 2 ](IMG_077723.jpg)
+
+---
+
+## ![Brain](IMG_0772.jpg)
+
+---
+
+### The external attributes: SCALE
 
 ---
 
@@ -94,7 +118,6 @@ Creation of an ecosystem
 ### The internal attributes: IDEAS
 
 ![Example](MicrosoftTeams-image.png)
-
 
 ---
 
@@ -155,6 +178,6 @@ Creation of an ecosystem
 
 ### Main Source
 
-Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) 
+Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
 ---
