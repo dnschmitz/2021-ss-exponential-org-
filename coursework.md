@@ -82,7 +82,17 @@ not a mission statement
 
 ---
 
-### Massive Transformative Purpose (MTP)
+#### Cisco
+
+Mission statement "Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors and ecosystem partners."
+
+Possible MTP "Connecting everyone, everything, everywhere-all the time"
+
+---
+
+MTP must be unique and is advantageous to first movers
+
+"We're <em>also</em> going to organize the world's information, but better."
 
 ---
 
@@ -90,6 +100,16 @@ not a mission statement
 
 Creation of an ecosystem
 ![Examples 2 ](IMG_077723.jpg)
+
+---
+
+### Why is an MTP important?
+
+- Enables coherent exponential growth
+- Binds collective aspiration
+- Attracts top talent across the ecosystem
+- Supports a cooperative/non-political culture
+- Enables agility and learning
 
 ---
 
@@ -102,6 +122,14 @@ Creation of an ecosystem
 ---
 
 ### Staff on demand
+
+###### Rent, don't own
+
+---
+
+- Necessary characteristic for speed, functionality and flexibility in a fast-changing world.
+- Most employees are risking to becoming obsolete and uncompetitive.
+- Half-life of a learned skill was 30 years. Today it is about 5 years.
 
 ---
 
