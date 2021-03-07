@@ -65,7 +65,7 @@ Even traditional industries are more and more information-enabled and with this 
 
 Disruptive breakthroughs occur when disparate fields cross
 
-[Industrial revolution](Industrial revolution.png)
+![Industrial revolution](Industrialrevolution.png)
 
 ---
 
