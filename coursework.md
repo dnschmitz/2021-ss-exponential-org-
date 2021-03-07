@@ -86,9 +86,15 @@ Creation of an ecosystem
 
 ### The internal attributes: IDEAS
 
+![Example](MicrosoftTeams-image.png)
+
+
 ---
 
 ### Interfaces
+
+- filtering and matching processes by which ExOs bridge from <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
+- 
 
 ---
 
@@ -137,5 +143,11 @@ Creation of an ecosystem
 ---
 
 ### Thank you for your Attention
+
+---
+
+### Main Source
+
+Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it) 
 
 ---
