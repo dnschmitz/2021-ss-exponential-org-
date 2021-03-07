@@ -100,7 +100,7 @@ Creation of an ecosystem
 
 ### Interfaces
 
-- filtering and matching processes by which ExOs bridge from <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
+- Process that closes gap between <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
 - 
 
 ---
