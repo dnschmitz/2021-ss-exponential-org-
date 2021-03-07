@@ -33,6 +33,18 @@
 
 ---
 
+Iridium moment: applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
+
+![Kurzweil example](Kurzweil.jpg)
+
+---
+
+### Exponential Organizations (ExO)
+
+Latest embodiment of acceleration
+
+---
+
 ### Definition
 
 - impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
@@ -102,9 +114,7 @@ Creation of an ecosystem
 ### Interfaces
 
 - filtering and matching processes by which ExOs bridge from <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
--
-
----
+- ***
 
 ### Dashboards
 
