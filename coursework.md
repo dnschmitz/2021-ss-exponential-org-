@@ -131,6 +131,33 @@ Creation of an ecosystem
 - Most employees are risking to becoming obsolete and uncompetitive.
 - Half-life of a learned skill was 30 years. Today it is about 5 years.
 
+* Full-time workforce have the risk to fail to keep their skills up to date
+* In any information-enabled business a large internal staff is increasingly unnecessary, counterproductive and expensive
+
+---
+
+Freelancers and contractors are increasingly needed
+
+- Internet reduced the costs of finding and tracking staff
+- The rise of number of internet users, rose the volume and quality of freelancers
+
+---
+
+Example of Gigwalk
+
+Platform to find easily and fast large numbers of "employees" for small tasks
+
+---
+
+Example of Kaggle
+
+Platform that hosts private and public algorithm contests
+More than 185'000 data scientists worldwide vie for prizes and recognition
+
+---
+
+![Anchor](Anchor.png)
+
 ---
 
 ### Community and Crowd
