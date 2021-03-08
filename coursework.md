@@ -164,6 +164,54 @@ More than 185'000 data scientists worldwide vie for prizes and recognition
 
 ---
 
+"If you build communities and you do things in public, you don't have to find the right people, they find you"
+
+Chris Anderson
+
+---
+
+Trait-based communities: use the internet to share intent, belief, resources, preferences, needs, risks and other characteristics, none of which depend on physical proximity.
+
+---
+
+For an organization or enterprise
+
+Community = core team members + alumni + partners + vendors + customers + users + fans
+
+---
+
+How to build a community?
+
+1. Use the MTP to attract and engage early members
+2. Nurture the community
+3. Create a platform to automate peer-to-peer engagement
+
+To start fo companies it's easier to join an existing community that shares the same MTP
+
+---
+
+Crowd = concentric rings of people outside the core community. crowd is harder to reach but the numbers are greater
+
+---
+
+Staff on Demand = managed
+
+Crowd = pull-based
+
+---
+
+How to leverage the crowd?
+
+1. Creativity innovation - generate, develop and communicate new ideas by using tools and platforms
+2. Validation - obtain measurable evidence about products' and services' success
+3. Crowdfunding - help funding ideas using the internet to assemble many small investors (democratization of access to working capital)
+
+---
+
+###### Results of <em>Staff on Demand</em> and <em>Community & Crowd</em>
+
+---
+
 ### Algorithms
 
 ---
