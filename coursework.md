@@ -221,6 +221,55 @@ Increased agility and better in learning and unlearning thanks to diversity and 
 
 ---
 
+Today the world is run by algorithms:
+
+- Automotive anti-lock braking
+- Recommendation engine of Amazon
+- Dynamic pricing of airlines
+- Success predictions of upcoming blockbusters
+- Writing new posts
+- Air traffic control
+- Credit card fraud detection
+- ...
+
+---
+
+Algorithmia
+Marketplace for algorithms
+Companies are matched with algorithms that can potentially make sense of their data.
+
+---
+
+Two types of algorithms:
+
+- <em>Machine learning</em> Ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data, and based on prediction. Eg. Hadoop and Cloudera, Netflix's movie recommendation
+- <em>Deep learning</em> New and exciting subset of Machine learning based on neural net technology. It allows a machine to discover new patterns without being exposed to any historical or training data. Eg. Google X built a neural network, that started to recognize cats after browsing randomly selected YouTube Videos. Describe episodes in videos, play videogames by figuring out the rules of the game and the optimizing performance
+
+---
+
+Technology will make most products and services more effective, personalized and efficient impacting and disrupting many white-collar jobs.
+
+---
+
+AI and algorithms compensate many heuristics in human cognition:
+
+- Anchoring bias
+- Availability bias
+- Confirmation bias
+- Framing bias
+- Optimism bias
+- Planning fallacy bias
+  Sunk-cost or loss-aversion bias
+
+---
+
+How can ExOs implement algorithms?
+
+1. <strong>Gather</strong> data via sensors, humans or import them from public databases
+2. <strong>Organize</strong> the data --> ETL (Extract, Transform and Load)
+3. <strong>Apply</strong> machine learning tools (eg. Hadoop and Pivotal) or deep learning algorithms (eg. DeepMind, Vicarious and SkyMind)
+4. <strong>Expose</strong> the data and APIs to the ExO community to develop new services, functionalities and innovation on top of the existing platform
+
 ---
 
 ### Leveraged Assets
