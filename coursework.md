@@ -243,6 +243,20 @@ Like gyms for expensive exercise equipment
 
 ---
 
+ExOs are flexible a.o. because they don't own assets, even in strategic areas. This allows them to scale quickly as it obviates the need for staff to manage those assets.
+
+---
+
+Non-ownership is the key to owning the future, except, when it comes to scarce resources and assets.
+
+Tesla owns its factories
+
+Amazon owns its warehouses
+
+---
+
+When assets are information-based or commoditized at all, accessing is better than possessing.
+
 ---
 
 ### Engagement
@@ -289,24 +303,24 @@ Like gyms for expensive exercise equipment
 ### Summary of Characteristics
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>  |
-| :-----------------------------------------------------: | :--------------------------------------: |
-|     <sub>Top-down & hierarchical in its orga</sub>      | <sub>Autonomy, social technologies</sub> |
-|         <sub>Driven by financial outcomes</sub>         |        <sub>MTP, dashboard</sub>         |
-|         <sub>Linear, sequential thinking</sub>          |   <sub>Experimentation, autonomy</sub>   |
-|       <sub>Innovation primarily from within</sub>       |    <sub>Innovation at the edges</sub>    |
-|                           ..                            |                    ..                    |
+| ------------------------------------------------------- | ---------------------------------------- |
+| <sub>Top-down & hierarchical organization</sub>         | <sub>Autonomy, social technologies</sub> |
+| <sub>Driven by financial outcomes</sub>                 | <sub>MTP, dashboard</sub>                |
+| <sub>Linear, sequential thinking</sub>                  | <sub>Experimentation, autonomy</sub>     |
+| <sub>Innovation primarily from within</sub>             | <sub>Innovation at the edges</sub>       |
+| ...                                                     | ...                                      |
 
 ---
 
-| <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>        |
-| ------------------------------------------------------- | ---------------------------------------------- |
-| strategic planning = extrapolation from past            | MTP, experimentation                           |
-| Risk intolerance                                        | Experimentation                                |
-| Process inflexibility                                   | Autonomy, experimentation                      |
-| Large number of FTEs                                    | Algorithms, community & crowd, staff om demand |
-| Controls/owns its own assets                            | Leveraged assets                               |
-| Strongly invested in status quo                         | MTP, Dashboards, Experimentation               |
-| ..                                                      | ..                                             |
+| <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>                   |
+| ------------------------------------------------------- | --------------------------------------------------------- |
+| <sub>Strategic planning = extrapolation from past</sub> | <sub>MTP, experimentation</sub>                           |
+| <sub>Risk intolerance</sub>                             | <sub>Experimentation</sub>                                |
+| <sub>Process inflexibility</sub>                        | <sub>Autonomy, experimentation</sub>                      |
+| <sub>Large number of FTEs</sub>                         | <sub>Algorithms, community & crowd, staff on demand</sub> |
+| <sub>Controls/owns its own assets</sub>                 | <sub>Leveraged assets</sub>                               |
+| <sub>Strongly invested in status quo</sub>              | <sub>MTP, Dashboards, Experimentation</sub>               |
+| ...                                                     | ...                                                       |
 
 ---
 
