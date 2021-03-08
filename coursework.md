@@ -210,13 +210,36 @@ How to leverage the crowd?
 
 ###### Results of <em>Staff on Demand</em> and <em>Community & Crowd</em>
 
+Core FTEs become smaller
+Flexible workforce larger
+
+Increased agility and better in learning and unlearning thanks to diversity and volume of flexible workforce
+
 ---
 
 ### Algorithms
 
 ---
 
+---
+
 ### Leveraged Assets
+
+---
+
+Leasing everything has been used to shift assets from balance sheet
+
+|          Past           |          Today          |
+| :---------------------: | :---------------------: |
+| Buildings and machinery | Mission-critical assets |
+
+---
+
+Example of TechShop
+
+Collects expensive manufacturing machinery and offers subscribers a small monthly fee (<span>$</span>125 to <span>$</span>175, depending on the location) for unlimited access to its assets
+
+Like gyms for expensive exercise equipment
 
 ---
 
