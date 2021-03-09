@@ -586,6 +586,20 @@ GIF einfügen
 
 ---
 
+| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
+| ------------------------------------------------------- | --------------------------------------------------------- |
+|<sub>• Faster conversations/learning</sub> | <sub> • MTP 
+<sub> • Faster decision cycles</sub> | <sub> • Cloud social tools
+<sub>• Stabilises team during rapid growth</sub> | <sub> • Cooperative culture</sub> 
+
+---
+
+
+KEY TAKEAWAYS einfügen?
+
+
+
+---
 ### <span style="color:yellow">Summary of Characteristics</span>
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>  |
@@ -612,9 +626,12 @@ GIF einfügen
 
 # <span style="color:yellow">Questions?</span>
 
+
 ---
 
 ### <span style="color:yellow">Thank you for your Attention</span>
+
+gif??
 
 ---
 
