@@ -312,6 +312,10 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
+| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
+
+---
+
 ### The internal attributes: IDEAS
 
 ![Example](MicrosoftTeams-image.png)
@@ -386,6 +390,7 @@ When assets are information-based or commoditized at all, accessing is better th
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
 ---
+
 ![test.gif](test.gif)
 
 ---
