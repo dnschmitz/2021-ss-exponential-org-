@@ -308,48 +308,98 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-### Engagement
+### <span style="color:yellow">Engagement</span>
 
 ---
 
-### The internal attributes: IDEAS
+### <span style="color:yellow">The internal attributes: IDEAS</span>
 
 ![Example](MicrosoftTeams-image.png)
 
 ---
 
-### Interfaces
+### <span style="color:skyblue">Interfaces</span>
 
-- Process that closes gap between <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
-- Interfaces are customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
+Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
+
+Critical for scalling, especially globally
+
+---
+### <span style="color:yellow">Examples</span>
+
+| <span style="color:yellow">_UBER_</span> | <span style="color:yellow">_TED_</span>|
+| ------------------------------------------------------- | --------------------------------------------------------- |
+|<sub>Interface: Driver selection </sub> | <sub> Interface: Video translation subtitles</sub> 
+<sub>Description: System to allow users to find and choose drivers</sub>| <sub> Description: Manage translations created by volunteers (via the vendor dotsub) </sub>  
+<sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translations seamlessly</sub>   
+<sub>SCALE Attribute: Algorithm​ </sub> | <sub>SCALE Attribute: Community & Crowd</sub> | 
+---
+
+### <span style="color:yellow">Google's AdWords</span>
+
+![Alt](MicrosoftTeams-image22.png "Title") 
+
+Google Interface: AdWords
+
+Description: User picks keywords to advertise against ​
+
+Internal Usage: Google places ads against search results ​
+
+SCALE Attribute: Algorithms 
+ 
+---
+
+GitHub Interface: Version control system ​
+
+Description: Multiple coders updating software sequentially and in parallel ​
+
+Internal Usage: Platform keeps all contributions in sync ​
+
+SCALE Attribute: Community & Crowd
 
 ---
 
-### Google's AdWords
-
-![Example](MicrosoftTeams-image22.png) --> muss kleiner
-
----
-
-### Dashboards
-
-- Track and monitor performance using real-time metrics & performance tracking techniques
+| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
+| ------------------------------------------------------- | --------------------------------------------------------- |
+|<sub>• Filter external abundance into internal value</sub> | <sub> • Standardized processes to enable automation
+•<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities
+<sub>• Automation allows scalability</sub> | <sub> • Algorithms (in most cases)</sub> 
 
 ---
 
-### Experimentation
+### <span style="color:yellow">Dashboards</span>
+
+Track and monitor performance using real-time metrics & performance tracking techniques (i.e. OKR)
 
 ---
 
-### Autonomy
+### OKRs
+
+GIF einfügen!
 
 ---
 
-### Social Technologies
+| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
+| ------------------------------------------------------- | --------------------------------------------------------- |
+|<sub>• Track critical growth drivers in real time</sub> | <sub> • Real time metrics tracked, gathered and analysed
+•<sub>OKRs create control framework to manage fast growth</sub> | <sub> • OKRs implemented
+<sub>• Minimise exposure from errors because of short feedback loops</sub> | <sub> • Cultural acceptance in most cases</sub> 
 
 ---
 
-### Summary of Characteristics
+### <span style="color:yellow">Experimentation</span>
+
+---
+
+### <span style="color:yellow">Autonomy</span>
+
+---
+
+### <span style="color:yellow">Social Technologies</span>
+
+---
+
+### <span style="color:yellow">Summary of Characteristics</span>
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>  |
 | ------------------------------------------------------- | ---------------------------------------- |
@@ -373,19 +423,19 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-# Questions?
+# <span style="color:yellow">Questions?</span>
 
 ---
 
-### Thank you for your Attention
+### <span style="color:yellow">Thank you for your Attention</span>
 
 ---
 
-### Main Source
+### <span style="color:yellow">Main Source</span>
 
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
 ---
-![test.gif](test.gif)
+
 
 ---
