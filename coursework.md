@@ -313,7 +313,9 @@ When assets are information-based or commoditized at all, accessing is better th
 ---
 
 <<<<<<< HEAD
+
 ### <span style="color:yellow">The internal attributes: IDEAS</span>
+
 =======
 <<<<<<< HEAD
 1927 Charle's Lindberg's solo nonstop flight Across the Atlantic Ocean
@@ -438,14 +440,9 @@ Engagement is a key element for scaling the organization in crowd and community 
 =======
 | Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
 
-> > > > > > > 66e4c9cf081fea5c5a0c0950434fb73a478a8c61
-
 ---
 
 ### The internal attributes: IDEAS
-
-> > > > > > > 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
->>>>>>> 7458675449282fa00380991b2b73a7932df7245a
 
 ![Example](MicrosoftTeams-image.png)
 
@@ -523,36 +520,43 @@ GIF einfügen!
 ---
 
 ### <span style="color:yellow">Experimentation</span>
+
 NOCH EIN BILD??
+
 - Testing assumptions and constantly experimenting with controlled risks
 - Processes are constantly being tweaked with fast feedback loops
+
 ---
 
-### Lean Startup movement 
+### Lean Startup movement
+
 BILD einfügen
 
      “Fail fast and fail often, while eliminating waste.”​
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
-| ------------------------------------------------------- | --------------------------------------------------------- |
-|<sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements
-•<sub> Maximise value captire</sub> | <sub> • Cultural acceptance (Failure = experience)
-<sub>• Risk taking provides an edge and faster learning</sub> | <sub> </sub> 
+| <span style="color:yellow">_Why Imoportant?_</span>                     | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                  |
+| •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                |
+| <sub>• Risk taking provides an edge and faster learning</sub>           | <sub> </sub>                                                      |
 
 ---
+
 ### <span style="color:yellow">Autonomy</span>
 
 Self-organizing and multi-disciplinary teams operating with decentralized authority
 
 ---
+
 ### <span style="color:yellow">Holocracy Model</span>
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
 
 ---
+
 ### Valve Corp - Game Developer
 
 - no managers, but 400 employees
@@ -562,11 +566,11 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
-| ------------------------------------------------------- | --------------------------------------------------------- |
-|<sub>• Increased agility</sub> | <sub> • MTP 
-<sub> • More accountability at customer face</sub> | <sub> • Self-starting-employees
-<sub>• Faster reaction/learning time and better morale</sub> | <sub> • Dashboards</sub> 
+| <span style="color:yellow">_Why Imoportant?_</span>          | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| ------------------------------------------------------------ | ----------------------------------------------------------------- |
+| <sub>• Increased agility</sub>                               | <sub> • MTP                                                       |
+| <sub> • More accountability at customer face</sub>           | <sub> • Self-starting-employees                                   |
+| <sub>• Faster reaction/learning time and better morale</sub> | <sub> • Dashboards</sub>                                          |
 
 ---
 
