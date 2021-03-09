@@ -312,15 +312,7 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-<<<<<<< HEAD
 ### <span style="color:yellow">The internal attributes: IDEAS</span>
-=======
-| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
-
----
-
-### The internal attributes: IDEAS
->>>>>>> 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
 
 ![Example](MicrosoftTeams-image.png)
 
@@ -396,14 +388,62 @@ GIF einfügen!
 ---
 
 ### <span style="color:yellow">Experimentation</span>
+NOCH EIN BILD??
+- Testing assumptions and constantly experimenting with controlled risks
+- Processes are constantly being tweaked with fast feedback loops
+---
+
+### Lean Startup movement 
+BILD einfügen
+
+     “Fail fast and fail often, while eliminating waste.”​
 
 ---
 
+| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
+| ------------------------------------------------------- | --------------------------------------------------------- |
+|<sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements
+•<sub> Maximise value captire</sub> | <sub> • Cultural acceptance (Failure = experience)
+<sub>• Risk taking provides an edge and faster learning</sub> | <sub> </sub> 
+
+---
 ### <span style="color:yellow">Autonomy</span>
+
+Self-organizing and multi-disciplinary teams operating with decentralized authority
+
+---
+### <span style="color:yellow">Holocracy Model</span>
+
+- Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
+- System of distributed authority reduces burden on leaders to make every decision alone
+
+---
+### Valve Corp - Game Developer
+
+- no managers, but 400 employees
+- freedom to create without having to worry about the consequences of failure
+- Over 75 million active users on the social entertainment platform
+- $2.5 billion equity in 2012​
+
+---
+
+| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
+| ------------------------------------------------------- | --------------------------------------------------------- |
+|<sub>• Increased agility</sub> | <sub> • MTP 
+<sub> • More accountability at customer face</sub> | <sub> • Self-starting-employees
+<sub>• Faster reaction/learning time and better morale</sub> | <sub> • Dashboards</sub> 
 
 ---
 
 ### <span style="color:yellow">Social Technologies</span>
+
+Collaborative tools, such as file sharing, activity streams, wikis, telepresence, virtual reality and emotional sensing to manage real time, zero latency conversations
+
+---
+
+### 7 Key elements
+
+GIF einfügen
 
 ---
 
@@ -445,9 +485,5 @@ Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: W
 
 ---
 
-<<<<<<< HEAD
-=======
-![test.gif](test.gif)
->>>>>>> 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
 
 ---
