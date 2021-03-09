@@ -386,3 +386,6 @@ When assets are information-based or commoditized at all, accessing is better th
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
 ---
+![test.gif](test.gif)
+
+---
