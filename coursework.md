@@ -308,10 +308,11 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-### Engagement
+### <span style="color:yellow">Engagement</span>
 
 ---
 
+<<<<<<< HEAD
 1927 Charle's Lindberg's solo nonstop flight Across the Atlantic Ocean
 
 "Employee of the Month" programmes
@@ -425,48 +426,111 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 Engagement is a key element for scaling the organization in crowd and community and creating external network effects.
 
-ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
+# ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
+
+<<<<<<< HEAD
+
+### <span style="color:yellow">The internal attributes: IDEAS</span>
+
+=======
+| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
+
+> > > > > > > 66e4c9cf081fea5c5a0c0950434fb73a478a8c61
 
 ---
 
 ### The internal attributes: IDEAS
 
+> > > > > > > 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
+
 ![Example](MicrosoftTeams-image.png)
 
 ---
 
-### Interfaces
+### <span style="color:skyblue">Interfaces</span>
 
-- Process that closes gap between <span style="color:yellow">SCALE</span> externalities to internal <span style="color:yellow">IDEAS</span> control frameworks
-- Interfaces are customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
+Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
 
----
-
-### Google's AdWords
-
-![Example](MicrosoftTeams-image22.png) --> muss kleiner
+Critical for scalling, especially globally
 
 ---
 
-### Dashboards
+### <span style="color:yellow">Examples</span>
 
-- Track and monitor performance using real-time metrics & performance tracking techniques
-
----
-
-### Experimentation
-
----
-
-### Autonomy
+| <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                                                     |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>                                          |
+| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations created by volunteers (via the vendor dotsub) </sub> |
+| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translations seamlessly</sub>                      |
+| <sub>SCALE Attribute: Algorithm​ </sub>                                            | <sub>SCALE Attribute: Community & Crowd</sub>                                               |
 
 ---
 
-### Social Technologies
+### <span style="color:yellow">Google's AdWords</span>
+
+![Alt](MicrosoftTeams-image22.png "Title")
+
+Google Interface: AdWords
+
+Description: User picks keywords to advertise against ​
+
+Internal Usage: Google places ads against search results ​
+
+SCALE Attribute: Algorithms
 
 ---
 
-### Summary of Characteristics
+GitHub Interface: Version control system ​
+
+Description: Multiple coders updating software sequentially and in parallel ​
+
+Internal Usage: Platform keeps all contributions in sync ​
+
+SCALE Attribute: Community & Crowd
+
+---
+
+| <span style="color:yellow">_Why Imoportant?_</span>                                  | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation               |
+| •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                    |
+| <sub>• Automation allows scalability</sub>                                           | <sub> • Algorithms (in most cases)</sub>                          |
+
+---
+
+### <span style="color:yellow">Dashboards</span>
+
+Track and monitor performance using real-time metrics & performance tracking techniques (i.e. OKR)
+
+---
+
+### OKRs
+
+GIF einfügen!
+
+---
+
+| <span style="color:yellow">_Why Imoportant?_</span>                        | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed          |
+| •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                          |
+| <sub>• Minimise exposure from errors because of short feedback loops</sub> | <sub> • Cultural acceptance in most cases</sub>                   |
+
+---
+
+### <span style="color:yellow">Experimentation</span>
+
+---
+
+### <span style="color:yellow">Autonomy</span>
+
+---
+
+### <span style="color:yellow">Social Technologies</span>
+
+---
+
+### <span style="color:yellow">Summary of Characteristics</span>
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>  |
 | ------------------------------------------------------- | ---------------------------------------- |
@@ -490,20 +554,24 @@ ExO needs to optimize the engagement of crowd and community, otherwise it will w
 
 ---
 
-# Questions?
+# <span style="color:yellow">Questions?</span>
 
 ---
 
-### Thank you for your Attention
+### <span style="color:yellow">Thank you for your Attention</span>
 
 ---
 
-### Main Source
+### <span style="color:yellow">Main Source</span>
 
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
 ---
 
+# <<<<<<< HEAD
+
 ![test.gif](test.gif)
+
+> > > > > > > 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
 
 ---
