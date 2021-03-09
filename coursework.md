@@ -312,7 +312,15 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
+<<<<<<< HEAD
 ### <span style="color:yellow">The internal attributes: IDEAS</span>
+=======
+| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
+
+---
+
+### The internal attributes: IDEAS
+>>>>>>> 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
 
 ![Example](MicrosoftTeams-image.png)
 
@@ -437,5 +445,9 @@ Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: W
 
 ---
 
+<<<<<<< HEAD
+=======
+![test.gif](test.gif)
+>>>>>>> 50c45eef0214d1eab60f5bccbcf8d9c614b7ad2a
 
 ---
