@@ -312,7 +312,120 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
+1927 Charle's Lindberg's solo nonstop flight Across the Atlantic Ocean
+
+"Employee of the Month" programmes
+
+---
+
+Such as sweepstakes, quizzes, coupons, airline miles and loyalty card
+
+New: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes
+
+---
+
+Gives the opportunity to for virtuous, positive feedback loops assuring a faster growth due to more innovative ideas and customer and community loyalty.
+Engagement creates network effects with extraordinary reach impacting customers and the entire external ecosystem and can be used to boost collaboration, innoovation and loyalty of employees.
+
+Examples: Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
+
+---
+
+What makes engagement so advantageous?
+
+- Ranking transparency
+- Self-efficacy
+- Peer pressure
+- Eliciting positive rather than negative emotions to drive long-term behavioral change
+- Instant feedback
+- Clear, authentic rules, goals and rewards
+- Virtual currencies or points
+
+---
+
+For Millennials, gaming is a way of life
+
+"Gamification should empower people, not exploit them. It should feel good at the end of the day because you made progress towards something that mattered to you."
+Jane McGonigal
+
+---
+
+AI researchers are using gaming to help mapping the human brain. An AI-assisted researcher needs 50 hours to reconstruct one neuron in 3D. The brain has 85 billion neurons.
+
+How long do they need to map all neurons?
+
+---
+
+EyeWire created a game in which players color 2D pieces to form 3d pieces.
+
+In only 2 years more than 100 neurons could be mapped played by 130'000 people
+
+Other Examples: MalariaSpot, GalaxyZoo and Foldit
+
+---
+
+Game techniques:
+
+- <em>Dynamics</em> motivate behavior
+- <em>Mechanics</em> help achieve goals
+- <em>Components</em> track progress
+
+---
+
+Gamification can be used as a hiring tool
+
+Example: Google and Domino's Pizza
+
+---
+
+Gamification can improve company's internal culture
+
+Example: Pep Boys
+
+Many safety-related incidents and injuries occurred linked to human error. Thefts were increasing
+Axonify was introduced, a quiz to educate employees. Correct answers = prizes, incorrect answers = additional testing
+Voluntary participation rate: 95%
+-45% safety incidents
+-55% thefts
+
+---
+
+Incentive competition got famous because of the X Prize Foundation
+
+Used to build the prototype of SpaceShipOne adopted by VirginGalantic
+
+Recently HeroX has been launched, allowing companies to create their own challenges to solve local and global issues.
+
+---
+
+An incentive prize is a clear, measurable and objective goal and is a remuneration for the team that first reaches the objective.
+
+Competitions deliver huge leverage and efficiency and have the ability to transform industries.
+
+Creation of peripheral innovation, leading numerous competitors to race towards a common goal.
+
+---
+
+Example: Vodafone Netherlands
+
+Launch of Vodafone Mobile Clicks (world's largest mobile internet startup contest) in the Netherlands. It expanded to 7 EU countries and engaged more than 900 mobile internet startups.
+
+At the beginning: external competition providing Vodafone opportunities to fund and acquire ideas, identify and acquire talented candidates.
+Became a form of corporate venture capital: creation of the Startupbootcamp (SBC), Vodafone's incubator/accelerator program across Europe
+
+---
+
+Positive side effect of engagement is TRAINING
+
+Complexity of some games provide education in leadership and teamwork skills.
+
+Becoming a WOW guild master = total-immersion course in leadership
+
+---
+
+Engagement is a key element for scaling the organization in crowd and community and creating external network effects.
+
+ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
 
 ---
 
