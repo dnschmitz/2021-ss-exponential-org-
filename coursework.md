@@ -12,7 +12,7 @@ David S. Rose
 
 ---
 
-### Ray Kurzweil's findings of Kurzweil:
+### <span style="color:#42affa">Ray Kurzweil's findings of Kurzweil:</span> 
 
 - Law of Accelerating Returns (LOAR) based on Moore's Law
 - Once the doubling pattern starts, it doesn't stop
@@ -21,13 +21,13 @@ David S. Rose
 
 ---
 
-### Exponential vs. linear development
+### <span style="color:#42affa"> Exponential vs. linear development</span> 
 
 > ![Exponential development](IMG_0777.png)
 
 ---
 
-### Examples of Cost Scale
+### <span style="color:#42affa">Examples of Cost Scale</span> 
 
 ![Cost scaling](costscaling.png)
 
@@ -41,7 +41,9 @@ Applying linear tools, processes, or trends of the past to predict an accelerati
 
 ---
 
-### Who was right?
+### <span style="color:#42affa">Who was right?</span> 
+
+
 
 <br/>
 Kurzweil: 1% doubling every year = 100% in 7 years
@@ -50,7 +52,7 @@ Kurzweil: 1% doubling every year = 100% in 7 years
 
 ---
 
-### Exponential Organizations (E<sub>x</sub>O)
+### <span style="color:#42affa">Exponential Organizations (E<sub>x</sub>O)</span>
 
 Latest embodiment of acceleration
 
@@ -58,15 +60,15 @@ Companies that work in an information-based environment, that delivers fundament
 
 ---
 
-### Characteristics
+### <span style="color:#42affa">Characteristics</span> 
 
-- impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
+- impact/output <span style="color:#bee4fd">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
 
-- grows faster, bigger and cheaper than competition because it has a <span style="color:yellow">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
+- grows faster, bigger and cheaper than competition because it has a <span style="color:#bee4fd">_Massive Transformative Purpose (MTP)_</span> and scales as quickly as tech does
 
 ---
 
-### Examples
+### <span style="color:#42affa">Best Practice </span> 
 
 ![Examples](MicrosoftTeams-image2.jpg)
 
@@ -80,7 +82,7 @@ Disruptive breakthroughs occur when disparate fields cross
 
 ---
 
-### Massive Transformative Purpose (MTP)
+### <span style="color:#42affa">Massive Transformative Purpose (MTP)</span>  
 
 capture <span style="color:red">❤️</span> and <span style="color:pink">👨</span> of people inside and outside the organization with a very aspirational position statement
 
@@ -88,11 +90,11 @@ capture <span style="color:red">❤️</span> and <span style="color:pink">👨<
 
 <img src="cisco.png" alt="cisco" width="200"/>
 
-Mission statement <br>
+<span style="color:#bee4fd">Mission statement</span><br>
 "Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors and ecosystem partners."
 
 <br>
-Possible MTP<br>
+<span style="color:#bee4fd">Possible MTP</span><br>
 "Connecting everyone, everything, everywhere-all the time"
 
 ---
@@ -103,14 +105,14 @@ MTP must be unique and is advantageous to first movers
 
 ---
 
-### MTP has the "power to pull" a community around the ExO
+### <span style="color:#42affa">MTP has the "power to pull" a community around the ExO</span>   
 
 Creation of an ecosystem
 ![Examples 2 ](IMG_0792.gif)
 
 ---
 
-### Why is an MTP important?
+### <span style="color:#42affa">Why is an MTP important?</span>   
 
 - Enables coherent exponential growth
 - Binds collective aspiration
@@ -124,19 +126,20 @@ Creation of an ecosystem
 
 ---
 
-### The external attributes: SCALE
+### <span style="color:#42affa">The external attributes: SCALE</span>  
 
 ![SCALE](scale.png)
 
 ---
 
-### Staff on demand
+### <span style="color:#42affa">Staff on Demand</span>  
 
-###### Rent, don't own
+###### <span style="color:#bee4fd">Rent, don't own!</span>  
+
 
 ---
 
-|                Internal staff                 |   Freellancers and contractors    |
+| <span style="color:#42affa">Internal staff</span> |    <span style="color:#42affa">Freelancers and contractors</span>|
 | :-------------------------------------------: | :-------------------------------: |
 |                Flexibility ⬇️                 | Allows speed and fast change 🏃💨 |
 |         Skills quickly outdated 📚🎓          |     Easy to find and track 🔎     |
@@ -163,8 +166,7 @@ Large internal staff is like an anchor for a ship
 
 ---
 
-### Community and Crowd
-
+### <span style="color:#42affa">Community and Crowd</span>  
 ---
 
 "If you build communities and you do things in public, you don't have to find the right people, they find you"
