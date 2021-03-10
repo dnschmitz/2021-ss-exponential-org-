@@ -429,7 +429,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 # ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
 
-Sweepstakes, quizzes, coupons, airline miles and loyalty cards
+| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
 
 ---
 
@@ -443,7 +443,7 @@ Sweepstakes, quizzes, coupons, airline miles and loyalty cards
 
 - Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
 
-- Especially critical for scalling globally
+- Especially critical for scaling globally
 
 ---
 
@@ -452,9 +452,9 @@ Sweepstakes, quizzes, coupons, airline miles and loyalty cards
 | <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                                                     |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>                                          |
-| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations created by volunteers (via the vendor dotsub) </sub> |
-| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translations seamlessly</sub>                      |
-| <sub>SCALE Attribute: Algorithm​ </sub>                                            | <sub>SCALE Attribute: Community & Crowd</sub>                                               |
+| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub> |
+| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translation </sub> 
+| <sub>SCALE Attribute: Algorithm​ </sub> | <sub>SCALE Attribute: Community & Crowd</sub> |
 
 ---
 
@@ -496,7 +496,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-### OKRs 🎯
+### OKR 🎯
 
 ![Alt](RPReplay-Final1615369780.gif "Title")
 
@@ -521,9 +521,9 @@ NOCH EIN BILD??
 
 ### Lean Startup movement
 
-BILD einfügen
+<img src="MicrosoftTeams-image3.png" alt="cisco" width="600"/>
 
-     “Fail fast and fail often, while eliminating waste.”​
+“Fail fast and fail often, while eliminating waste.”​
 
 ---
 
@@ -535,7 +535,7 @@ BILD einfügen
 
 ---
 
-### <span style="color:yellow">Autonomy</span>
+### <span style="color:turquoise">Autonomy</span>
 
 Self-organizing and multi-disciplinary teams operating with decentralized authority
 
