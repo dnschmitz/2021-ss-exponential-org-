@@ -533,13 +533,13 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-### <span style="color:turquoise">Autonomy</span>
+### <span style="color:#42affa">Autonomy</span>
 
 Self-organizing and multi-disciplinary teams operating with decentralized authority
 
 ---
 
-### <span style="color:turquoise">Holacracy Model</span>
+### <span style="color:#42affa">Holacracy Model</span>
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
@@ -600,7 +600,7 @@ GIF einfügen
 
 ---
 
-| <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>                   |
+| <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>                   |
 | ------------------------------------------------------- | --------------------------------------------------------- |
 | <sub>Strategic planning = past extrapolation</sub>      | <sub>MTP, experimentation</sub>                           |
 | <sub>Risk intolerance</sub>                             | <sub>Experimentation</sub>                                |
@@ -615,13 +615,7 @@ GIF einfügen
 
 ---
 
-### <span style="color:yellow">Thank you for your Attention</span>
-
-gif??
-
----
-
-### <span style="color:yellow">Main Source</span>
+### <span style="color:#42affa">Main Source</span>
 
 Ismail, Salim; Malone, Michael S.; van Geest, Yuri. Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)
 
