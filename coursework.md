@@ -397,9 +397,7 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 Engagement is a key element for scaling the organization in crowd and community and creating external network effects.
 
-# ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
-
-| Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
+ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
 
 ---
 
