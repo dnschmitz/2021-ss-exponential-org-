@@ -197,8 +197,8 @@ Crowd is pull-based, while Staff on Demand is managed
 PIC
 
 ---
+<span style="color:#42affa">How to leverage the crowd?</span> 
 
-How to leverage the crowd?
 
 1. Creativity innovation - generate, develop and communicate new ideas by using tools and platforms
 2. Validation - obtain measurable evidence about products' and services' success
@@ -215,7 +215,7 @@ Increased agility and better in learning and unlearning thanks to diversity and 
 
 ---
 
-### Algorithms
+### <span style="color:#42affa">Algorithms</span>    
 
 ---
 
@@ -271,19 +271,18 @@ How can ExOs implement algorithms?
 
 ---
 
-### Leveraged Assets
+### <span style="color:#42affa">Leveraged Assets</span>    
 
 ---
 
 Leasing everything has been used to shift assets from balance sheet
 
-|          Past           |          Today          |
+|  <span style="color:#42affa">Past</span>         |        <span style="color:#42affa">Present</span>          |
 | :---------------------: | :---------------------: |
 | Buildings and machinery | Mission-critical assets |
 
 ---
-
-Example of TechShop
+### <span style="color:#42affa">Example of TechShop</span>
 
 Collects expensive manufacturing machinery and offers subscribers a small monthly fee (<span>$</span>125 to <span>$</span>175, depending on the location) for unlimited access to its assets
 
@@ -307,7 +306,7 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-### <span style="color:yellow">Engagement</span>
+### <span style="color:#42affa">Engagement</span>
 
 ---
 
@@ -468,6 +467,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 <u>SCALE Attribute:</u> Algorithms
 
 ---
+Logo einfügen
 
 <u>GitHub Interface:</u> Version control system ​
 
