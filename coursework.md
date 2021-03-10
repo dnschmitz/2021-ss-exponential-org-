@@ -99,7 +99,7 @@ MTP must be unique and is advantageous to first movers
 ### MTP has the "power to pull" a community around the ExO
 
 Creation of an ecosystem
-![Examples 2 ](IMG_077723.jpg)
+![Examples 2 ](IMG_0792.gif)
 
 ---
 
@@ -113,7 +113,7 @@ Creation of an ecosystem
 
 ---
 
-## ![Brain](IMG_0772.jpg)
+## ![Brain](attributes.png)
 
 ---
 
