@@ -556,6 +556,9 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
+---
+
+![IDEAS](IMG_0080.jpeg)
 
 ---
 
@@ -608,23 +611,22 @@ KEY TAKEAWAYS einfügen?
 | <sub>Driven by financial outcomes</sub>                 | <sub>MTP, dashboard</sub>                |
 | <sub>Linear, sequential thinking</sub>                  | <sub>Experimentation, autonomy</sub>     |
 | <sub>Innovation primarily from within</sub>             | <sub>Innovation at the edges</sub>       |
-| ...                                                     | ...                                      |
+ 
 
 ---
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>                   |
 | ------------------------------------------------------- | --------------------------------------------------------- |
-| <sub>Strategic planning = extrapolation from past</sub> | <sub>MTP, experimentation</sub>                           |
+| <sub>Strategic planning = past extrapolation</sub> | <sub>MTP, experimentation</sub>                           |
 | <sub>Risk intolerance</sub>                             | <sub>Experimentation</sub>                                |
 | <sub>Process inflexibility</sub>                        | <sub>Autonomy, experimentation</sub>                      |
 | <sub>Large number of FTEs</sub>                         | <sub>Algorithms, community & crowd, staff on demand</sub> |
 | <sub>Controls/owns its own assets</sub>                 | <sub>Leveraged assets</sub>                               |
 | <sub>Strongly invested in status quo</sub>              | <sub>MTP, Dashboards, Experimentation</sub>               |
-| ...                                                     | ...                                                       |
+
 
 ---
-
-# <span style="color:yellow">Questions?</span>
+![IDEAS](Questions.gif)
 
 ---
 
