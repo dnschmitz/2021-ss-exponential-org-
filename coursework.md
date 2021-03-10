@@ -235,7 +235,8 @@ Today the world is run by algorithms:
 
 ---
 
-Algorithmia<br>
+<img src="algorithmia.png" alt="algorithmia" width="400"/>
+
 Marketplace for algorithms
 Companies are matched with algorithms that can potentially make sense of their data.
 
@@ -551,7 +552,9 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-### Valve Corp - Game Developer
+<img src="valve.png" alt="valve" width="300"/>
+
+### Game Developer
 
 - no managers, but 400 employees
 - freedom to create without having to worry about the consequences of failure
