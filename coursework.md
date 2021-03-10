@@ -175,17 +175,13 @@ Chris Anderson
 
 ---
 
-Trait-based communities: use the internet to share intent, belief, resources, preferences, needs, risks and other characteristics, none of which depend on physical proximity.
+Community
+
+Core team members + alumni + partners + vendors + customers + users + fans
 
 ---
 
-For an organization or enterprise
-
-Community = core team members + alumni + partners + vendors + customers + users + fans
-
----
-
-How to build a community?
+### How to build a community?
 
 1. Use the MTP to attract and engage early members
 2. Nurture the community
@@ -195,13 +191,12 @@ To start for companies it's easier to join an existing community that shares the
 
 ---
 
-Crowd = concentric rings of people outside the core community. crowd is harder to reach but the numbers are greater
+Crowd
 
----
+Concentric rings of people outside the core community. Crowd is harder to reach but the numbers are greater
+Crowd is pull-based, while Staff on Demand is managed
 
-Staff on Demand = managed
-
-Crowd = pull-based
+PIC
 
 ---
 <span style="color:#42affa">How to leverage the crowd?</span> 
@@ -248,10 +243,10 @@ Companies are matched with algorithms that can potentially make sense of their d
 
 Two types of algorithms:
 
-- <em>Machine learning</em> Ability to accurately perform new, unseen tasks, built on known properties learned from training or historic data, and based on prediction. Eg. Hadoop and Cloudera, Netflix's movie recommendation
-- <em>Deep learning</em> New and exciting subset of Machine learning based on neural net technology. It allows a machine to discover new patterns without being exposed to any historical or training data. Eg. Google X built a neural network, that started to recognize cats after browsing randomly selected YouTube Videos. Describe episodes in videos, play videogames by figuring out the rules of the game and the optimizing performance
+- <em>Machine learning</em> based on training or historical data
+- <em>Deep learning</em> based on neural net technology
 
----
+PICs with examples
 
 Technology will make most products and services more effective, personalized and efficient impacting and disrupting many white-collar jobs.
 
@@ -452,7 +447,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ### <span style="color:#42affa">Examples</span>
 
-| <span style="color:#42affa">_UBER_</span>                                           | <span style="color:#42affa">_TED_</span>                     |
+| <span style="color:#42affa">_UBER_</span>                                          | <span style="color:#42affa">_TED_</span>                    |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>          |
 | <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub>               |
@@ -486,11 +481,11 @@ Logo einfügen
 
 ---
 
-| <span style="color:#42affa">_Why Important?_</span>                                | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation                  |
-| •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                       |
-| <sub>• Automation allows scalability</sub>                                           | <sub> • Algorithms (in most cases)</sub>                             |
+| <span style="color:#42affa">_Why Important?_</span>                                  | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation                |
+| •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                     |
+| <sub>• Automation allows scalability</sub>                                           | <sub> • Algorithms (in most cases)</sub>                           |
 
 ---
 
@@ -506,11 +501,11 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-| <span style="color:#42affa">_Why Important?_</span>                      | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed             |
-| •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                             |
-| <sub>• Minimise exposure from errors because of short feedback loops</sub> | <sub> • Cultural acceptance in most cases</sub>                      |
+| <span style="color:#42affa">_Why Important?_</span>                        | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed           |
+| •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                           |
+| <sub>• Minimise exposure from errors because of short feedback loops</sub> | <sub> • Cultural acceptance in most cases</sub>                    |
 
 ---
 
@@ -529,11 +524,11 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-| <span style="color:#42affa">_Why Important?_</span>                   | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                     |
-| •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                   |
-| <sub>• Risk taking provides an edge and faster learning</sub>           | <sub> </sub>                                                         |
+| <span style="color:#42affa">_Why Important?_</span>                     | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                   |
+| •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                 |
+| <sub>• Risk taking provides an edge and faster learning</sub>           | <sub> </sub>                                                       |
 
 ---
 
@@ -604,14 +599,14 @@ GIF einfügen
 
 ---
 
-| <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>                   |
-| ------------------------------------------------------- | --------------------------------------------------------- |
-| <sub>Strategic planning = past extrapolation</sub>      | <sub>MTP, experimentation</sub>                           |
-| <sub>Risk intolerance</sub>                             | <sub>Experimentation</sub>                                |
-| <sub>Process inflexibility</sub>                        | <sub>Autonomy, experimentation</sub>                      |
-| <sub>Large number of FTEs</sub>                         | <sub>Algorithms, community & crowd, staff on demand</sub> |
-| <sub>Controls/owns its own assets</sub>                 | <sub>Leveraged assets</sub>                               |
-| <sub>Strongly invested in status quo</sub>              | <sub>MTP, Dashboards, Experimentation</sub>               |
+| <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>                  |
+| -------------------------------------------------------- | --------------------------------------------------------- |
+| <sub>Strategic planning = past extrapolation</sub>       | <sub>MTP, experimentation</sub>                           |
+| <sub>Risk intolerance</sub>                              | <sub>Experimentation</sub>                                |
+| <sub>Process inflexibility</sub>                         | <sub>Autonomy, experimentation</sub>                      |
+| <sub>Large number of FTEs</sub>                          | <sub>Algorithms, community & crowd, staff on demand</sub> |
+| <sub>Controls/owns its own assets</sub>                  | <sub>Leveraged assets</sub>                               |
+| <sub>Strongly invested in status quo</sub>               | <sub>MTP, Dashboards, Experimentation</sub>               |
 
 ---
 
