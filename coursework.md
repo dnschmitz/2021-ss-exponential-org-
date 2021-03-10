@@ -540,7 +540,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-### <span style="color:yellow">Holocracy Model</span>
+### <span style="color:yellow">Holacracy Model</span>
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
@@ -560,7 +560,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>          | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>          | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Increased agility</sub>                               | <sub> • MTP                                                       |
 | <sub> • More accountability at customer face</sub>           | <sub> • Self-starting-employees                                   |
@@ -580,7 +580,7 @@ GIF einfügen
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | --------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Faster conversations/learning</sub>          | <sub> • MTP                                                       |
 | <sub> • Faster decision cycles</sub>                | <sub> • Cloud social tools                                        |
