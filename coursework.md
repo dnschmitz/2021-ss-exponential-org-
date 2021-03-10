@@ -449,12 +449,12 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ### <span style="color:yellow">Examples</span>
 
-| <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                                                     |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>                                          |
-| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub> |
-| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translation </sub> 
-| <sub>SCALE Attribute: Algorithm​ </sub> | <sub>SCALE Attribute: Community & Crowd</sub> |
+| <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                     |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>          |
+| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub>               |
+| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translation </sub> |
+| <sub>SCALE Attribute: Algorithm​ </sub>                                            | <sub>SCALE Attribute: Community & Crowd</sub>               |
 
 ---
 
@@ -482,7 +482,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>                                  | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>                                   | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation               |
 | •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                    |
@@ -502,7 +502,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>                        | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>                         | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed          |
 | •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                          |
