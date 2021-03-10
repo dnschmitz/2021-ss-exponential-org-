@@ -2,8 +2,6 @@
 
 <span style="font-family:Papyrus; color:#bee4fd">_By Silvia Martin and Dominique Schmitz_</span>
 
-📈 organization is 🔥 as 👿
-
 ---
 
 "Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
@@ -12,7 +10,7 @@ David S. Rose
 
 ---
 
-### <span style="color:#42affa">Ray Kurzweil's findings of Kurzweil:</span>
+### <span style="color:#42affa">Ray Kurzweil's findings:</span>
 
 - Law of Accelerating Returns (LOAR) based on Moore's Law
 - Once the doubling pattern starts, it doesn't stop
@@ -45,18 +43,13 @@ Applying linear tools, processes, or trends of the past to predict an accelerati
 
 <br/>
 Kurzweil: 1% doubling every year = 100% in 7 years
+<br>
 
 # <span style="color:yellow"> 👍</span>
 
 ---
 
 ### <span style="color:#42affa">Exponential Organizations (E<sub>x</sub>O)</span>
-
-Latest embodiment of acceleration
-
-Companies that work in an information-based environment, that delivers fundamentally disruptive opportunities
-
----
 
 ### <span style="color:#42affa">Characteristics</span>
 
@@ -72,9 +65,8 @@ Companies that work in an information-based environment, that delivers fundament
 
 ---
 
-Even traditional industries are more and more information-enabled
-
-Disruptive breakthroughs occur when disparate fields cross
+- Even traditional industries are more and more information-enabled
+- Disruptive breakthroughs occur when disparate fields cross
 
 ![Industrial revolution](Industrialrevolution.png)
 
@@ -152,7 +144,7 @@ Platform to find easily and fast large numbers of "employees" for small tasks
 
 <img src="kaggle.png" alt="kaggle" width="200"/>
 
-Platform that hosts private and public algorithm contests
+Platform that hosts private and public algorithm contests<br>
 More than 185'000 data scientists worldwide vie for prizes and recognition
 
 ---
@@ -164,8 +156,6 @@ Large internal staff is like an anchor for a ship
 ---
 
 ### <span style="color:#42affa">Community and Crowd</span>
-
----
 
 "If you build communities and you do things in public, you don't have to find the right people, they find you"
 
@@ -191,7 +181,7 @@ To start for companies it's easier to join an existing community that shares the
 
 Crowd
 
-Concentric rings of people outside the core community. Crowd is harder to reach but the numbers are greater
+Concentric rings of people outside the core community. Crowd is harder to reach but the numbers are greater<br>
 Crowd is pull-based, while Staff on Demand is managed
 
 PIC
@@ -206,7 +196,7 @@ PIC
 
 ---
 
-###### Results of <em>Staff on Demand</em> and <em>Community & Crowd</em>
+### Results of <em>Staff on Demand</em> and <em>Community & Crowd</em>
 
 Core FTEs become smaller
 Flexible workforce larger
@@ -216,8 +206,6 @@ Increased agility and better in learning and unlearning thanks to diversity and 
 ---
 
 ### <span style="color:#42affa">Algorithms</span>
-
----
 
 Today the world is run by algorithms:
 
@@ -235,6 +223,7 @@ Today the world is run by algorithms:
 <img src="algorithmia.png" alt="algorithmia" width="400"/>
 
 Marketplace for algorithms
+
 Companies are matched with algorithms that can potentially make sense of their data.
 
 ---
@@ -273,8 +262,6 @@ How can ExOs implement algorithms?
 
 ### <span style="color:#42affa">Leveraged Assets</span>
 
----
-
 Leasing everything has been used to shift assets from balance sheet
 
 | <span style="color:#42affa">Past</span> | <span style="color:#42affa">Present</span> |
@@ -291,10 +278,6 @@ Like gyms for expensive exercise equipment
 
 ---
 
-ExOs are flexible a.o. because they don't own assets, even in strategic areas. This allows them to scale quickly as it obviates the need for staff to manage those assets.
-
----
-
 Non-ownership is the key to owning the future, except, when it comes to scarce resources and assets.
 
 Tesla owns its factories
@@ -308,8 +291,6 @@ When assets are information-based or commoditized at all, accessing is better th
 ---
 
 ### <span style="color:#42affa">Engagement</span>
-
----
 
 <u>Past:</u> Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
 
@@ -364,12 +345,6 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-Engagement is a key element for scaling the organization in crowd and community and creating external network effects.
-
-ExO needs to optimize the engagement of crowd and community, otherwise it will wither and fade.
-
----
-
 ### <span style="color:#42affa">The internal attributes: IDEAS</span>
 
 ![IDEAS](ideas.png)
@@ -409,20 +384,6 @@ ExO needs to optimize the engagement of crowd and community, otherwise it will w
 
 ---
 
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-
-# Logo einfügen
-
-# Logo einfügen
-
-> > > > > > > # 2f321559e234637220ad2ed3f1b6bb3821109d36
-
-# Logo einfügen
-
-> > > > > > > 20b1712f93bad76161dae25405415d41efce4329
-
 <u>GitHub Interface:</u> Version control system ​
 
 <u>Description:</u> Multiple coders updating software sequentially and in parallel ​
@@ -456,7 +417,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 | <span style="color:#42affa">_Why Important?_</span>                        | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed           |
-| •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                           |
+| <sub>• OKRs create control framework to manage fast growth</sub>           | <sub> • OKRs implemented                                           |
 | <sub>• Minimise exposure from errors because of short feedback loops</sub> | <sub> • Cultural acceptance in most cases</sub>                    |
 
 ---
@@ -505,8 +466,8 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 Game Developer 🕹️
 
-- no managers, but 400 employees
-- freedom to create without having to worry about the consequences of failure
+- No managers, but 400 employees
+- Freedom to create without having to worry about the consequences of failure
 - Over 75 million active users on the social entertainment platform
 - $2.5 billion equity in 2012​
 
@@ -553,7 +514,7 @@ GIF einfügen
 
 | <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>                  |
 | -------------------------------------------------------- | --------------------------------------------------------- |
-| <sub>Strategic planning = past extrapolation</sub>       | <sub>MTP, experimentation</sub>                           |
+| <sub>Strategic planning = past extrapolation</sub>       | <sub>MTP, Experimentation</sub>                           |
 | <sub>Risk intolerance</sub>                              | <sub>Experimentation</sub>                                |
 | <sub>Process inflexibility</sub>                         | <sub>Autonomy, experimentation</sub>                      |
 | <sub>Large number of FTEs</sub>                          | <sub>Algorithms, community & crowd, staff on demand</sub> |
