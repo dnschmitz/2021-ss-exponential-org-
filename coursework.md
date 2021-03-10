@@ -311,14 +311,14 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-Past: Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
+<u>Past:</u> Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
 
-Present: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
-Examples: Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
+<u>Present:</u> techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
+<u>Examples:</u> Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
 
 ---
 
-What makes engagement so advantageous?
+### <span style="color:#42affa">What makes engagement so advantageous?</span>
 
 - Ranking transparency
 - Self-efficacy
