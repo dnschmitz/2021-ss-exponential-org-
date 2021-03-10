@@ -1,8 +1,6 @@
 # Exponential Organisation
 
-<span style="color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
-
-.
+<span style="font-family:Papyrus; color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
 
@@ -44,7 +42,7 @@ Applying linear tools, processes, or trends of the past to predict an accelerati
 ### Who was right?
 
 <br/>
-Kurzweil: 1% doubling every year = 100% in 7 year
+Kurzweil: 1% doubling every year = 100% in 7 years
 
 # <span style="color:yellow"> 👍</span>
 
@@ -58,7 +56,7 @@ Companies that work in an information-based environment, that delivers fundament
 
 ---
 
-### Definition
+### Characteristics
 
 - impact/output <span style="color:yellow">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
 
@@ -82,16 +80,18 @@ Disruptive breakthroughs occur when disparate fields cross
 
 ### Massive Transformative Purpose (MTP)
 
-capture heart and mind of people inside and outside the organization with a very aspirational position statement
-not a mission statement
+capture <span style="color:red">❤️</span> and <span style="color:pink">👨</span> of people inside and outside the organization with a very aspirational position statement
 
 ---
 
-#### Cisco
+<img src="cisco.png" alt="cisco" width="200"/>
 
-Mission statement "Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors and ecosystem partners."
+Mission statement <br>
+"Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors and ecosystem partners."
 
-Possible MTP "Connecting everyone, everything, everywhere-all the time"
+<br>
+Possible MTP<br>
+"Connecting everyone, everything, everywhere-all the time"
 
 ---
 
