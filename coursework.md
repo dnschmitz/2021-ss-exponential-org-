@@ -2,9 +2,9 @@
 
 <span style="font-family:Papyrus; color:#bee4fd">_By Silvia Martin and Dominique Schmitz_</span>
 
----
+## 👭
 
-"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
+<span style="color:#8dcffc">_"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."_</span>
 
 David S. Rose
 
@@ -31,7 +31,7 @@ David S. Rose
 
 ---
 
-### Problem of the <em>Iridium moment</em>
+### <span style="color:#42affa">Problem of the <em>Iridium moment</em>
 
 Applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment is not able to predict exponential acceleration.
 
@@ -157,7 +157,7 @@ Large internal staff is like an anchor for a ship
 
 ### <span style="color:#42affa">Community and Crowd</span>
 
-"If you build communities and you do things in public, you don't have to find the right people, they find you"
+<span style="color:#8dcffc">_"If you build communities and you do things in public, you don't have to find the right people, they find you"_</span>
 
 Chris Anderson
 
@@ -313,7 +313,7 @@ When assets are information-based or commoditized at all, accessing is better th
 
 For Millennials, gaming is a way of life
 
-"Gamification should empower people, not exploit them. It should feel good at the end of the day because you made progress towards something that mattered to you."
+<span style="color:#8dcffc">_"Gamification should empower people, not exploit them. It should feel good at the end of the day because you made progress towards something that mattered to you."_</span>
 
 Jane McGonigal
 
