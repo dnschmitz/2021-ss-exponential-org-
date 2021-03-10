@@ -134,19 +134,11 @@ Creation of an ecosystem
 
 ---
 
-- Necessary characteristic for speed, functionality and flexibility in a fast-changing world.
-- Most employees are risking to becoming obsolete and uncompetitive.
-- Half-life of a learned skill was 30 years. Today it is about 5 years.
-
-* Full-time workforce have the risk to fail to keep their skills up to date
-* In any information-enabled business a large internal staff is increasingly unnecessary, counterproductive and expensive
-
----
-
-Freelancers and contractors are increasingly needed
-
-- Internet reduced the costs of finding and tracking staff
-- The rise of number of internet users, rose the volume and quality of freelancers
+|                Internal staff                 |   Freellancers and contractors    |
+| :-------------------------------------------: | :-------------------------------: |
+|                Flexibility ⬇️                 | Allows speed and fast change 🏃💨 |
+|         Skills quickly outdated 📚🎓          |     Easy to find and track 🔎     |
+| Expensive <span style="color:green">💸</span> |       Quality of skills ⬆️        |
 
 ---
 
