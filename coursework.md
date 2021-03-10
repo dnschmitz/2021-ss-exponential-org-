@@ -142,20 +142,22 @@ Creation of an ecosystem
 
 ---
 
-Example of Gigwalk
+<img src="gigwalk.png" alt="gigwalk" width="200"/>
 
 Platform to find easily and fast large numbers of "employees" for small tasks
 
 ---
 
-Example of Kaggle
+<img src="kaggle.png" alt="kaggle" width="200"/>
 
 Platform that hosts private and public algorithm contests
 More than 185'000 data scientists worldwide vie for prizes and recognition
 
 ---
 
-![Anchor](Anchor.png)
+Large internal staff is like an anchor for a ship
+
+![Anchor](Anchor.gif)
 
 ---
 
