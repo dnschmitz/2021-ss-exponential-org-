@@ -313,7 +313,7 @@ When assets are information-based or commoditized at all, accessing is better th
 
 Past: Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
 
-New: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
+Present: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
 Examples: Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
 
 ---
@@ -338,15 +338,7 @@ Jane McGonigal
 
 ---
 
-AI researchers are using gaming to help mapping the human brain. An AI-assisted researcher needs 50 hours to reconstruct one neuron in 3D. The brain has 85 billion neurons.
-
-How long do they need to map all neurons?
-
----
-
-EyeWire created a game in which players color 2D pieces to form 3d pieces.
-
-In only 2 years more than 100 neurons could be mapped played by 130'000 people
+Game to map human brain
 
 Other Examples: MalariaSpot, GalaxyZoo and Foldit
 
