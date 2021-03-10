@@ -29,21 +29,13 @@ David S. Rose
 
 ### Examples of Cost Scale
 
-<u>Industrial Robots</u>
-
-<span>$</span>500.000 in 2008 to <span>$</span>22.000 in 2013: - 23x in 5 years
-
-<u>3D printing</u>
-
-<span>$</span>40.000 in 2007 to <span>$</span>100 in 2014: - 400x in 7 years
-
-<u>Biotech (DNA Sequencing)</u>
-
-<span>$</span>10.000.000 in 2007 to <span>$</span>1.000 in 2014: - 10.000x in 7 years
+![Cost scaling](costscaling.png)
 
 ---
 
-Iridium moment: applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
+### Problem of the <em>Iridium moment</em>
+
+Applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
 
 ![Kurzweil example](Kurzweil.png)
 
