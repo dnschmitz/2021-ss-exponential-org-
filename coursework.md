@@ -187,7 +187,7 @@ How to build a community?
 2. Nurture the community
 3. Create a platform to automate peer-to-peer engagement
 
-To start fo companies it's easier to join an existing community that shares the same MTP
+To start for companies it's easier to join an existing community that shares the same MTP
 
 ---
 
@@ -235,7 +235,7 @@ Today the world is run by algorithms:
 
 ---
 
-Algorithmia
+Algorithmia<br>
 Marketplace for algorithms
 Companies are matched with algorithms that can potentially make sense of their data.
 
@@ -313,12 +313,6 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-<<<<<<< HEAD
-
-### <span style="color:yellow">The internal attributes: IDEAS</span>
-
-=======
-<<<<<<< HEAD
 1927 Charle's Lindberg's solo nonstop flight Across the Atlantic Ocean
 
 "Employee of the Month" programmes
