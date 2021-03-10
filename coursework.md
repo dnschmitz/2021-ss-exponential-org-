@@ -482,7 +482,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-| <span style="color:yellow">_Why Important?_</span>                                  | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:turquoise">_Why Important?_</span>                                  | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation               |
 | •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                    |
@@ -490,19 +490,19 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-### <span style="color:yellow">Dashboards</span>
+### <span style="color:turquoise">Dashboards</span>
 
 Track and monitor performance using real-time metrics & performance tracking techniques (i.e. OKR)
 
 ---
 
-### OKR 🎯
+### <span style="color:turquoise">OKR</span> 🎯
 
 ![Alt](RPReplay-Final1615369780.gif "Title")
 
 ---
 
-| <span style="color:yellow">_Why Important?_</span>                        | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:turquoise">_Why Important?_</span>                        | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed          |
 | •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                          |
@@ -510,16 +510,15 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-### <span style="color:yellow">Experimentation</span>
-
-NOCH EIN BILD??
+### <span style="color:turquoise">Experimentation</span> 🧪
 
 - Testing assumptions and constantly experimenting with controlled risks
 - Processes are constantly being tweaked with fast feedback loops
 
 ---
 
-### Lean Startup movement
+### <span style="color:turquoise">Lean Startup Movement</span>
+
 
 <img src="MicrosoftTeams-image3.png" alt="cisco" width="600"/>
 
@@ -527,7 +526,7 @@ NOCH EIN BILD??
 
 ---
 
-| <span style="color:yellow">_Why Important?_</span>                     | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:turquoise">_Why Important?_</span>                     | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                  |
 | •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                |
@@ -541,7 +540,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-### <span style="color:yellow">Holacracy Model</span>
+### <span style="color:turquoise">Holacracy Model</span>
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
@@ -554,7 +553,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 <img src="valve.png" alt="valve" width="300"/>
 
-### Game Developer
+Game Developer 🕹️
 
 - no managers, but 400 employees
 - freedom to create without having to worry about the consequences of failure
@@ -563,7 +562,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-| <span style="color:yellow">_Why Important?_</span>          | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:#42affa">_Why Important?_</span>          | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Increased agility</sub>                               | <sub> • MTP                                                       |
 | <sub> • More accountability at customer face</sub>           | <sub> • Self-starting-employees                                   |
@@ -571,7 +570,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-### <span style="color:yellow">Social Technologies</span>
+### <span style="color:#42affa">Social Technologies</span>
 
 Collaborative tools, such as file sharing, activity streams, wikis, telepresence, virtual reality and emotional sensing to manage real time, zero latency conversations
 
@@ -583,7 +582,7 @@ GIF einfügen
 
 ---
 
-| <span style="color:yellow">_Why Important?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | --------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Faster conversations/learning</sub>          | <sub> • MTP                                                       |
 | <sub> • Faster decision cycles</sub>                | <sub> • Cloud social tools                                        |
@@ -591,13 +590,9 @@ GIF einfügen
 
 ---
 
-KEY TAKEAWAYS einfügen?
+### <span style="color:#42affa">Summary of Characteristics</span>
 
----
-
-### <span style="color:yellow">Summary of Characteristics</span>
-
-| <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>  |
+| <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>  |
 | ------------------------------------------------------- | ---------------------------------------- |
 | <sub>Top-down & hierarchical organization</sub>         | <sub>Autonomy, social technologies</sub> |
 | <sub>Driven by financial outcomes</sub>                 | <sub>MTP, dashboard</sub>                |
