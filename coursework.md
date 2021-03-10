@@ -435,13 +435,13 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-### <span style="color:yellow">The internal attributes: IDEAS</span>
+### <span style="color:#42affa">The internal attributes: IDEAS</span>
 
 ![IDEAS](ideas.png)
 
 ---
 
-### <span style="color:skyblue">Interfaces</span>
+### <span style="color:#42affa">Interfaces</span>
 
 - Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
 
@@ -449,9 +449,9 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-### <span style="color:yellow">Examples</span>
+### <span style="color:#42affa">Examples</span>
 
-| <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                     |
+| <span style="color:#42affa">_UBER_</span>                                           | <span style="color:#42affa">_TED_</span>                     |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>          |
 | <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub>               |
@@ -460,7 +460,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-### <span style="color:yellow">Google's AdWords</span>
+### <span style="color:#42affa">Google's AdWords</span>
 
 <img src="gogglelogo.gif" alt="cisco" width="200"/>
 
@@ -484,7 +484,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-| <span style="color:turquoise">_Why Important?_</span>                                | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
+| <span style="color:#42affa">_Why Important?_</span>                                | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation                  |
 | •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                       |
@@ -492,19 +492,19 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-### <span style="color:turquoise">Dashboards</span>
+### <span style="color:#42affa">Dashboards</span>
 
 Track and monitor performance using real-time metrics & performance tracking techniques (i.e. OKR)
 
 ---
 
-### <span style="color:turquoise">OKR</span> 🎯
+### <span style="color:#42affa">OKR</span> 🎯
 
 ![Alt](RPReplay-Final1615369780.gif "Title")
 
 ---
 
-| <span style="color:turquoise">_Why Important?_</span>                      | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
+| <span style="color:#42affa">_Why Important?_</span>                      | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed             |
 | •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                             |
@@ -512,14 +512,14 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-### <span style="color:turquoise">Experimentation</span> 🧪
+### <span style="color:#42affa">Experimentation</span> 🧪
 
 - Testing assumptions and constantly experimenting with controlled risks
 - Processes are constantly being tweaked with fast feedback loops
 
 ---
 
-### <span style="color:turquoise">Lean Startup Movement</span>
+### <span style="color:#42affa">Lean Startup Movement</span>
 
 <img src="MicrosoftTeams-image3.png" alt="cisco" width="600"/>
 
@@ -527,7 +527,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-| <span style="color:turquoise">_Why Important?_</span>                   | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
+| <span style="color:#42affa">_Why Important?_</span>                   | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                     |
 | •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                   |
