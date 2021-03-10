@@ -155,7 +155,9 @@ More than 185'000 data scientists worldwide vie for prizes and recognition
 
 ---
 
-![Anchor](Anchor.png)
+Large internal staff is like an anchor for a ship
+
+![Anchor](Anchor.gif)
 
 ---
 
