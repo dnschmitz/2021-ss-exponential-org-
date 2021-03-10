@@ -352,38 +352,21 @@ Game techniques:
 
 ---
 
-Gamification can be used as a hiring tool
+Gamification used as a hiring tool
 
 Example: Google and Domino's Pizza
 
-Gamification can improve company's internal culture
+Gamification to improve company's internal culture
 
 Example: Pep Boys
 
 ---
 
-Incentive competition got famous because of the X Prize Foundation
+Gamification to encourage competition
 
-Used to build the prototype of SpaceShipOne adopted by VirginGalantic
+Example: X Prize Foundation
 
-Recently HeroX has been launched, allowing companies to create their own challenges to solve local and global issues.
-
----
-
-An incentive prize is a clear, measurable and objective goal and is a remuneration for the team that first reaches the objective.
-
-Competitions deliver huge leverage and efficiency and have the ability to transform industries.
-
-Creation of peripheral innovation, leading numerous competitors to race towards a common goal.
-
----
-
-Example: Vodafone Netherlands
-
-Launch of Vodafone Mobile Clicks (world's largest mobile internet startup contest) in the Netherlands. It expanded to 7 EU countries and engaged more than 900 mobile internet startups.
-
-At the beginning: external competition providing Vodafone opportunities to fund and acquire ideas, identify and acquire talented candidates.
-Became a form of corporate venture capital: creation of the Startupbootcamp (SBC), Vodafone's incubator/accelerator program across Europe
+HeroX allows companies to create their own challenges to solve local and global issues.
 
 ---
 
