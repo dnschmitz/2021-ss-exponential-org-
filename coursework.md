@@ -1,6 +1,6 @@
-# <span style="color:#42affa">Exponential Organisation</span>
+# Exponential Organisation
 
-<span style="font-family:Papyrus; color:#bee4fd">_By Silvia Martin and Dominique Schmitz_</span>
+<span style="font-family:Papyrus; color:turquoise">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
 
@@ -449,12 +449,12 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ### <span style="color:yellow">Examples</span>
 
-| <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                     |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>          |
-| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub>               |
-| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translation </sub> |
-| <sub>SCALE Attribute: Algorithm​ </sub>                                            | <sub>SCALE Attribute: Community & Crowd</sub>               |
+| <span style="color:yellow">_UBER_</span>                                           | <span style="color:yellow">_TED_</span>                                                     |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>                                          |
+| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub> |
+| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translation </sub> 
+| <sub>SCALE Attribute: Algorithm​ </sub> | <sub>SCALE Attribute: Community & Crowd</sub> |
 
 ---
 
@@ -482,11 +482,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-<<<<<<< HEAD
 | <span style="color:turquoise">_Why Important?_</span>                                  | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
-=======
-| <span style="color:yellow">_Why Important?_</span>                                   | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
->>>>>>> f6fba141132e5a89d3ee219ec01bd0043f785d7c
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation               |
 | •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                    |
@@ -506,11 +502,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-<<<<<<< HEAD
 | <span style="color:turquoise">_Why Important?_</span>                        | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
-=======
-| <span style="color:yellow">_Why Important?_</span>                         | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
->>>>>>> f6fba141132e5a89d3ee219ec01bd0043f785d7c
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed          |
 | •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                          |
@@ -534,11 +526,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-<<<<<<< HEAD
 | <span style="color:turquoise">_Why Important?_</span>                     | <span style="color:turquoise">_Dependencies or Prerequisites_</span> |
-=======
-| <span style="color:yellow">_Why Important?_</span>                      | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
->>>>>>> f6fba141132e5a89d3ee219ec01bd0043f785d7c
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                  |
 | •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                |
@@ -574,11 +562,7 @@ Game Developer 🕹️
 
 ---
 
-<<<<<<< HEAD
 | <span style="color:#42affa">_Why Important?_</span>          | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
-=======
-| <span style="color:yellow">_Why Important?_</span>           | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
->>>>>>> f6fba141132e5a89d3ee219ec01bd0043f785d7c
 | ------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Increased agility</sub>                               | <sub> • MTP                                                       |
 | <sub> • More accountability at customer face</sub>           | <sub> • Self-starting-employees                                   |
@@ -598,23 +582,15 @@ GIF einfügen
 
 ---
 
-<<<<<<< HEAD
 | <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | --------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Faster conversations/learning</sub>          | <sub> • MTP                                                       |
 | <sub> • Faster decision cycles</sub>                | <sub> • Cloud social tools                                        |
 | <sub>• Stabilises team during rapid growth</sub>    | <sub> • Cooperative culture</sub>                                 |
-=======
-| <span style="color:yellow">_Why Important?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
-| -------------------------------------------------- | ----------------------------------------------------------------- |
-| <sub>• Faster conversations/learning</sub>         | <sub> • MTP                                                       |
-| <sub> • Faster decision cycles</sub>               | <sub> • Cloud social tools                                        |
-| <sub>• Stabilises team during rapid growth</sub>   | <sub> • Cooperative culture</sub>                                 |
->>>>>>> f6fba141132e5a89d3ee219ec01bd0043f785d7c
 
 ---
 
-### <span style="color:#42affa">Summary of Characteristics</span>
+### <span style="color:#42affa">Summary of Characteristics</span> 📝
 
 | <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>  |
 | ------------------------------------------------------- | ---------------------------------------- |
