@@ -2,6 +2,8 @@
 
 <span style="font-family:Papyrus; color:#bee4fd">_By Silvia Martin and Dominique Schmitz_</span>
 
+📈 organization is 🔥 as 👿
+
 ---
 
 "Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
