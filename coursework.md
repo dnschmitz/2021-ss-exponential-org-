@@ -1,6 +1,6 @@
 # Exponential Organisation
 
-<span style="font-family:Papyrus; color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
+<span style="font-family:Papyrus; color:turquoise">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
 
@@ -482,7 +482,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>                                  | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>                                  | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation               |
 | •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                    |
@@ -502,7 +502,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>                        | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>                        | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Track critical growth drivers in real time</sub>                    | <sub> • Real time metrics tracked, gathered and analysed          |
 | •<sub>OKRs create control framework to manage fast growth</sub>            | <sub> • OKRs implemented                                          |
@@ -527,7 +527,7 @@ NOCH EIN BILD??
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>                     | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>                     | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                  |
 | •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                |
