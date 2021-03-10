@@ -80,12 +80,16 @@ capture <span style="color:red">❤️</span> and <span style="color:pink">🧠<
 ---
 
 <img src="cisco.png" alt="cisco" width="200"/>
-
-<span style="color:#bee4fd">Mission statement</span><br>
-"Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors and ecosystem partners."
-
 <br>
-<span style="color:#bee4fd">Possible MTP</span><br>
+
+##### <span style="color:#8dcffc">Mission statement</span><br>
+
+"Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors and ecosystem partners."
+<br>
+<br>
+
+##### <span style="color:#8dcffc">Possible MTP</span><br>
+
 "Connecting everyone, everything, everywhere-all the time"
 
 ---
