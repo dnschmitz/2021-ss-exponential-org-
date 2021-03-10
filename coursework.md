@@ -119,6 +119,8 @@ Creation of an ecosystem
 
 ### The external attributes: SCALE
 
+![SCALE](scale.png)
+
 ---
 
 ### Staff on demand
@@ -444,7 +446,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ### The internal attributes: IDEAS
 
-![Example](MicrosoftTeams-image.png)
+![IDEAS](ideas.png)
 
 ---
 
@@ -586,20 +588,18 @@ GIF einfügen
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span>|
-| ------------------------------------------------------- | --------------------------------------------------------- |
-|<sub>• Faster conversations/learning</sub> | <sub> • MTP 
-<sub> • Faster decision cycles</sub> | <sub> • Cloud social tools
-<sub>• Stabilises team during rapid growth</sub> | <sub> • Cooperative culture</sub> 
+| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| --------------------------------------------------- | ----------------------------------------------------------------- |
+| <sub>• Faster conversations/learning</sub>          | <sub> • MTP                                                       |
+| <sub> • Faster decision cycles</sub>                | <sub> • Cloud social tools                                        |
+| <sub>• Stabilises team during rapid growth</sub>    | <sub> • Cooperative culture</sub>                                 |
 
 ---
-
 
 KEY TAKEAWAYS einfügen?
 
-
-
 ---
+
 ### <span style="color:yellow">Summary of Characteristics</span>
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>  |
@@ -625,7 +625,6 @@ KEY TAKEAWAYS einfügen?
 ---
 
 # <span style="color:yellow">Questions?</span>
-
 
 ---
 
