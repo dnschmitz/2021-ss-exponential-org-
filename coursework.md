@@ -35,13 +35,22 @@ David S. Rose
 
 ### Problem of the <em>Iridium moment</em>
 
-Applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
+Applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment is not able to predict exponential acceleration.
 
-![Kurzweil example](Kurzweil.png)
+![Kurzweil example](Kurzweil2.png)
 
 ---
 
-### Exponential Organizations (ExO)
+### Who was right?
+
+<br/>
+Kurzweil: 1% doubling every year = 100% in 7 year
+
+# <span style="color:yellow"> 👍</span>
+
+---
+
+### Exponential Organizations (E<sub>x</sub>O)
 
 Latest embodiment of acceleration
 
@@ -63,7 +72,7 @@ Companies that work in an information-based environment, that delivers fundament
 
 ---
 
-Even traditional industries are more and more information-enabled and with this disruption occurs
+Even traditional industries are more and more information-enabled
 
 Disruptive breakthroughs occur when disparate fields cross
 
