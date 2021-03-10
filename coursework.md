@@ -311,17 +311,10 @@ When assets are information-based or commoditized at all, accessing is better th
 
 ---
 
-1927 Charle's Lindberg's solo nonstop flight Across the Atlantic Ocean
+Past: Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
 
-"Employee of the Month" programmes
-
+New: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
 Examples: Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
-
----
-
-Such as sweepstakes, quizzes, coupons, airline miles and loyalty card
-
-New: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes
 
 ---
 
@@ -340,6 +333,7 @@ What makes engagement so advantageous?
 For Millennials, gaming is a way of life
 
 "Gamification should empower people, not exploit them. It should feel good at the end of the day because you made progress towards something that mattered to you."
+
 Jane McGonigal
 
 ---
@@ -370,17 +364,9 @@ Gamification can be used as a hiring tool
 
 Example: Google and Domino's Pizza
 
----
-
 Gamification can improve company's internal culture
 
 Example: Pep Boys
-
-Many safety-related incidents and injuries occurred linked to human error. Thefts were increasing
-Axonify was introduced, a quiz to educate employees. Correct answers = prizes, incorrect answers = additional testing
-Voluntary participation rate: 95%
--45% safety incidents
--55% thefts
 
 ---
 
@@ -463,18 +449,20 @@ Engagement is a key element for scaling the organization in crowd and community 
 <u>SCALE Attribute:</u> Algorithms
 
 ---
-<<<<<<< HEAD
 
 <<<<<<< HEAD
 
-# Logo einfügen
+<<<<<<< HEAD
 
 # Logo einfügen
 
-> > > > > > > 2f321559e234637220ad2ed3f1b6bb3821109d36
-=======
 # Logo einfügen
->>>>>>> 20b1712f93bad76161dae25405415d41efce4329
+
+> > > > > > > # 2f321559e234637220ad2ed3f1b6bb3821109d36
+
+# Logo einfügen
+
+> > > > > > > 20b1712f93bad76161dae25405415d41efce4329
 
 <u>GitHub Interface:</u> Version control system ​
 
