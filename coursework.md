@@ -33,7 +33,8 @@ David S. Rose
 
 ### <span style="color:#42affa">Problem of the <em>Iridium moment</em>
 
-Applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment is not able to predict exponential acceleration.
+- Applying linear tools, processes or trends of the past to predict the future.<br>
+- Not able to predict exponential acceleration.
 
 ![Kurzweil example](Kurzweil2.png)
 
@@ -74,7 +75,7 @@ Kurzweil: 1% doubling every year = 100% in 7 years
 
 ### <span style="color:#42affa">Massive Transformative Purpose (MTP)</span>
 
-capture <span style="color:red">❤️</span> and <span style="color:pink">👨</span> of people inside and outside the organization with a very aspirational position statement
+capture <span style="color:red">❤️</span> and <span style="color:pink">🧠</span> of people inside and outside the organization with a very aspirational position statement
 
 ---
 
