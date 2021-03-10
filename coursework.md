@@ -465,7 +465,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ### <span style="color:yellow">Google's AdWords</span>
 
-![Alt](gogglelogo.gif "Title")-> muss kleiner
+<img src="gogglelogo.gif" alt="cisco" width="200"/>
 
 <u>Interface:</u> AdWords
 
@@ -477,13 +477,13 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ---
 
-GitHub Interface: Version control system ​
+<u>GitHub Interface:</u> Version control system ​
 
-Description: Multiple coders updating software sequentially and in parallel ​
+<u>Description:</u> Multiple coders updating software sequentially and in parallel ​
 
-Internal Usage: Platform keeps all contributions in sync ​
+<u>Internal Usage:</u> Platform keeps all contributions in sync ​
 
-SCALE Attribute: Community & Crowd
+<u>SCALE Attribute:</u> Community & Crowd
 
 ---
 
@@ -501,7 +501,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-### OKRs
+### OKRs 🎯
 
 ![Alt](RPReplay-Final1615369780.gif "Title")
 
