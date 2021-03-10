@@ -437,14 +437,11 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 <<<<<<< HEAD
 
-### <span style="color:yellow">The internal attributes: IDEAS</span>
-
-=======
 | Sweepstakes, quizzes, coupons, airline miles and loyalty cards |
 
 ---
 
-### The internal attributes: IDEAS
+### <span style="color:yellow">The internal attributes: IDEAS</span>
 
 ![IDEAS](ideas.png)
 
@@ -452,9 +449,9 @@ Engagement is a key element for scaling the organization in crowd and community 
 
 ### <span style="color:skyblue">Interfaces</span>
 
-Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
+- Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
 
-Critical for scalling, especially globally
+- Especially critical for scalling globally
 
 ---
 
@@ -471,15 +468,15 @@ Critical for scalling, especially globally
 
 ### <span style="color:yellow">Google's AdWords</span>
 
-![Alt](MicrosoftTeams-image22.png "Title")
+![Alt](gogglelogo.gif "Title")-> muss kleiner
 
-Google Interface: AdWords
+<u>Interface:</u> AdWords
 
-Description: User picks keywords to advertise against ​
+<u>Description:</u> User picks keywords to advertise against ​
 
-Internal Usage: Google places ads against search results ​
+<u>Internal Usage:</u> Google places ads against search results ​
 
-SCALE Attribute: Algorithms
+<u>SCALE Attribute:</u> Algorithms
 
 ---
 
@@ -509,7 +506,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ### OKRs
 
-GIF einfügen!
+![Alt](RPReplay-Final1615369780.gif "Title")
 
 ---
 
