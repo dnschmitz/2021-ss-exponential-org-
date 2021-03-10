@@ -2,6 +2,8 @@
 
 <span style="color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
 
+.
+
 ---
 
 "Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
@@ -10,16 +12,18 @@ David S. Rose
 
 ---
 
-### Law of Accelerating Returns (LOAR) of Kurzweiler:
+### Ray Kurzweil's findings of Kurzweil:
 
-- Moore's Law -> price/performance of information technology doubles every year or two
-- information-enabled and driven domains, disciplines, technologies and industries double their price/performance annually
+- Law of Accelerating Returns (LOAR) based on Moore's Law
 - Once the doubling pattern starts, it doesn't stop
-- modern key technologies are information-enabled and follow the same trajectory
+- Information-enabled and driven objects double their price/performance annually
+- Modern key technologies are information-enabled and follow the same trajectory
 
 ---
 
-> ![Exponential development](IMG_0777.jpg)
+### Exponential vs. linear development
+
+> ![Exponential development](IMG_0777.png)
 
 ---
 
