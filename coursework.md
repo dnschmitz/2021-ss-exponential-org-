@@ -4,6 +4,12 @@
 
 ---
 
+"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
+
+David S. Rose
+
+---
+
 ### Law of Accelerating Returns (LOAR) of Kurzweiler:
 
 - Moore's Law -> price/performance of information technology doubles every year or two
@@ -36,12 +42,6 @@
 Iridium moment: applying linear tools, processes, or trends of the past to predict an accelerating future. Iridium moment not able to predict exponential acceleration.
 
 ![Kurzweil example](Kurzweil.png)
-
----
-
-"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."
-
-David S. Rose
 
 ---
 
@@ -553,6 +553,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
+
 ---
 
 ![IDEAS](IMG_0080.jpeg)
@@ -608,21 +609,20 @@ KEY TAKEAWAYS einfügen?
 | <sub>Driven by financial outcomes</sub>                 | <sub>MTP, dashboard</sub>                |
 | <sub>Linear, sequential thinking</sub>                  | <sub>Experimentation, autonomy</sub>     |
 | <sub>Innovation primarily from within</sub>             | <sub>Innovation at the edges</sub>       |
- 
 
 ---
 
 | <span style="color:yellow">_Linear Organisation_</span> | <span style="color:yellow">_ExO_</span>                   |
 | ------------------------------------------------------- | --------------------------------------------------------- |
-| <sub>Strategic planning = past extrapolation</sub> | <sub>MTP, experimentation</sub>                           |
+| <sub>Strategic planning = past extrapolation</sub>      | <sub>MTP, experimentation</sub>                           |
 | <sub>Risk intolerance</sub>                             | <sub>Experimentation</sub>                                |
 | <sub>Process inflexibility</sub>                        | <sub>Autonomy, experimentation</sub>                      |
 | <sub>Large number of FTEs</sub>                         | <sub>Algorithms, community & crowd, staff on demand</sub> |
 | <sub>Controls/owns its own assets</sub>                 | <sub>Leveraged assets</sub>                               |
 | <sub>Strongly invested in status quo</sub>              | <sub>MTP, Dashboards, Experimentation</sub>               |
 
-
 ---
+
 ![IDEAS](Questions.gif)
 
 ---
