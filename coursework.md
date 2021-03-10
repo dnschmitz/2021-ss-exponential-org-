@@ -181,7 +181,7 @@ Core team members + alumni + partners + vendors + customers + users + fans
 
 ---
 
-### How to build a community?
+### <span style="color:#42affa">How to build a community?</span> 
 
 1. Use the MTP to attract and engage early members
 2. Nurture the community
@@ -469,7 +469,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 <u>SCALE Attribute:</u> Algorithms
 
 ---
-Logo einfügen
+# Logo einfügen
 
 <u>GitHub Interface:</u> Version control system ​
 
