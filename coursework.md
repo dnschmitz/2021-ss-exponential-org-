@@ -1,6 +1,6 @@
-# Exponential Organisation
+# <span style="color:#42affa">Exponential Organisation</span>
 
-<span style="font-family:Papyrus; color:yellow">_By Silvia Martin and Dominique Schmitz_</span>
+<span style="font-family:Papyrus; color:#bee4fd">_By Silvia Martin and Dominique Schmitz_</span>
 
 ---
 
@@ -527,7 +527,7 @@ NOCH EIN BILD??
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>                     | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>                      | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <sub>• Keep processes aligned with rapidly changing externalities</sub> | <sub> • Measurement and tracking of experiements                  |
 | •<sub> Maximise value captire</sub>                                     | <sub> • Cultural acceptance (Failure = experience)                |
@@ -541,7 +541,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-### <span style="color:yellow">Holocracy Model</span>
+### <span style="color:yellow">Holacracy Model</span>
 
 - Encourages members to take initiative and gives them a process by which their concerns or ideas can be addressed
 - System of distributed authority reduces burden on leaders to make every decision alone
@@ -563,7 +563,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span>          | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| <span style="color:yellow">_Why Important?_</span>           | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------ | ----------------------------------------------------------------- |
 | <sub>• Increased agility</sub>                               | <sub> • MTP                                                       |
 | <sub> • More accountability at customer face</sub>           | <sub> • Self-starting-employees                                   |
@@ -583,11 +583,11 @@ GIF einfügen
 
 ---
 
-| <span style="color:yellow">_Why Imoportant?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
-| --------------------------------------------------- | ----------------------------------------------------------------- |
-| <sub>• Faster conversations/learning</sub>          | <sub> • MTP                                                       |
-| <sub> • Faster decision cycles</sub>                | <sub> • Cloud social tools                                        |
-| <sub>• Stabilises team during rapid growth</sub>    | <sub> • Cooperative culture</sub>                                 |
+| <span style="color:yellow">_Why Important?_</span> | <span style="color:yellow">_Dependencies or Prerequisites_</span> |
+| -------------------------------------------------- | ----------------------------------------------------------------- |
+| <sub>• Faster conversations/learning</sub>         | <sub> • MTP                                                       |
+| <sub> • Faster decision cycles</sub>               | <sub> • Cloud social tools                                        |
+| <sub>• Stabilises team during rapid growth</sub>   | <sub> • Cooperative culture</sub>                                 |
 
 ---
 
