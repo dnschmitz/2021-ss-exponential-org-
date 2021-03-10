@@ -197,8 +197,8 @@ Crowd is pull-based, while Staff on Demand is managed
 PIC
 
 ---
-<span style="color:#42affa">How to leverage the crowd?</span> 
 
+<span style="color:#42affa">How to leverage the crowd?</span>
 
 1. Creativity innovation - generate, develop and communicate new ideas by using tools and platforms
 2. Validation - obtain measurable evidence about products' and services' success
@@ -215,7 +215,7 @@ Increased agility and better in learning and unlearning thanks to diversity and 
 
 ---
 
-### <span style="color:#42affa">Algorithms</span>    
+### <span style="color:#42affa">Algorithms</span>
 
 ---
 
@@ -258,7 +258,7 @@ AI and algorithms compensate many heuristics in human cognition:
 - Framing bias
 - Optimism bias
 - Planning fallacy bias
-  Sunk-cost or loss-aversion bias
+- Sunk-cost or loss-aversion bias
 
 ---
 
@@ -271,17 +271,18 @@ How can ExOs implement algorithms?
 
 ---
 
-### <span style="color:#42affa">Leveraged Assets</span>    
+### <span style="color:#42affa">Leveraged Assets</span>
 
 ---
 
 Leasing everything has been used to shift assets from balance sheet
 
-|  <span style="color:#42affa">Past</span>         |        <span style="color:#42affa">Present</span>          |
-| :---------------------: | :---------------------: |
-| Buildings and machinery | Mission-critical assets |
+| <span style="color:#42affa">Past</span> | <span style="color:#42affa">Present</span> |
+| :-------------------------------------: | :----------------------------------------: |
+|         Buildings and machinery         |          Mission-critical assets           |
 
 ---
+
 ### <span style="color:#42affa">Example of TechShop</span>
 
 Collects expensive manufacturing machinery and offers subscribers a small monthly fee (<span>$</span>125 to <span>$</span>175, depending on the location) for unlimited access to its assets
@@ -467,6 +468,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 <u>SCALE Attribute:</u> Algorithms
 
 ---
+
 Logo einfügen
 
 <u>GitHub Interface:</u> Version control system ​
