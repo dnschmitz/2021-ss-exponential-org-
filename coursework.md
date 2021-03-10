@@ -12,7 +12,7 @@ David S. Rose
 
 ---
 
-### <span style="color:#42affa">Ray Kurzweil's findings of Kurzweil:</span> 
+### <span style="color:#42affa">Ray Kurzweil's findings of Kurzweil:</span>
 
 - Law of Accelerating Returns (LOAR) based on Moore's Law
 - Once the doubling pattern starts, it doesn't stop
@@ -21,13 +21,13 @@ David S. Rose
 
 ---
 
-### <span style="color:#42affa"> Exponential vs. linear development</span> 
+### <span style="color:#42affa"> Exponential vs. linear development</span>
 
 > ![Exponential development](IMG_0777.png)
 
 ---
 
-### <span style="color:#42affa">Examples of Cost Scale</span> 
+### <span style="color:#42affa">Examples of Cost Scale</span>
 
 ![Cost scaling](costscaling.png)
 
@@ -41,9 +41,7 @@ Applying linear tools, processes, or trends of the past to predict an accelerati
 
 ---
 
-### <span style="color:#42affa">Who was right?</span> 
-
-
+### <span style="color:#42affa">Who was right?</span>
 
 <br/>
 Kurzweil: 1% doubling every year = 100% in 7 years
@@ -60,7 +58,7 @@ Companies that work in an information-based environment, that delivers fundament
 
 ---
 
-### <span style="color:#42affa">Characteristics</span> 
+### <span style="color:#42affa">Characteristics</span>
 
 - impact/output <span style="color:#bee4fd">_at least 10 times larger_</span> compared to peers because of new organizational techniques that leverage accelerating technologies
 
@@ -68,7 +66,7 @@ Companies that work in an information-based environment, that delivers fundament
 
 ---
 
-### <span style="color:#42affa">Best Practice </span> 
+### <span style="color:#42affa">Best Practice </span>
 
 ![Examples](MicrosoftTeams-image2.jpg)
 
@@ -82,7 +80,7 @@ Disruptive breakthroughs occur when disparate fields cross
 
 ---
 
-### <span style="color:#42affa">Massive Transformative Purpose (MTP)</span>  
+### <span style="color:#42affa">Massive Transformative Purpose (MTP)</span>
 
 capture <span style="color:red">❤️</span> and <span style="color:pink">👨</span> of people inside and outside the organization with a very aspirational position statement
 
@@ -105,14 +103,14 @@ MTP must be unique and is advantageous to first movers
 
 ---
 
-### <span style="color:#42affa">MTP has the "power to pull" a community around the ExO</span>   
+### <span style="color:#42affa">MTP has the "power to pull" a community around the ExO</span>
 
 Creation of an ecosystem
 ![Examples 2 ](IMG_0792.gif)
 
 ---
 
-### <span style="color:#42affa">Why is an MTP important?</span>   
+### <span style="color:#42affa">Why is an MTP important?</span>
 
 - Enables coherent exponential growth
 - Binds collective aspiration
@@ -126,24 +124,23 @@ Creation of an ecosystem
 
 ---
 
-### <span style="color:#42affa">The external attributes: SCALE</span>  
+### <span style="color:#42affa">The external attributes: SCALE</span>
 
 ![SCALE](scale.png)
 
 ---
 
-### <span style="color:#42affa">Staff on Demand</span>  
+### <span style="color:#42affa">Staff on Demand</span>
 
-###### <span style="color:#bee4fd">Rent, don't own!</span>  
-
+###### <span style="color:#bee4fd">Rent, don't own!</span>
 
 ---
 
-| <span style="color:#42affa">Internal staff</span> |    <span style="color:#42affa">Freelancers and contractors</span>|
-| :-------------------------------------------: | :-------------------------------: |
-|                Flexibility ⬇️                 | Allows speed and fast change 🏃💨 |
-|         Skills quickly outdated 📚🎓          |     Easy to find and track 🔎     |
-| Expensive <span style="color:green">💸</span> |       Quality of skills ⬆️        |
+| <span style="color:#42affa">Internal staff</span> | <span style="color:#42affa">Freelancers and contractors</span> |
+| :-----------------------------------------------: | :------------------------------------------------------------: |
+|                  Flexibility ⬇️                   |               Allows speed and fast change 🏃💨                |
+|           Skills quickly outdated 📚🎓            |                   Easy to find and track 🔎                    |
+|   Expensive <span style="color:green">💸</span>   |                      Quality of skills ⬆️                      |
 
 ---
 
@@ -166,7 +163,8 @@ Large internal staff is like an anchor for a ship
 
 ---
 
-### <span style="color:#42affa">Community and Crowd</span>  
+### <span style="color:#42affa">Community and Crowd</span>
+
 ---
 
 "If you build communities and you do things in public, you don't have to find the right people, they find you"
@@ -181,7 +179,7 @@ Core team members + alumni + partners + vendors + customers + users + fans
 
 ---
 
-### <span style="color:#42affa">How to build a community?</span> 
+### <span style="color:#42affa">How to build a community?</span>
 
 1. Use the MTP to attract and engage early members
 2. Nurture the community
@@ -317,18 +315,13 @@ When assets are information-based or commoditized at all, accessing is better th
 
 "Employee of the Month" programmes
 
+Examples: Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
+
 ---
 
 Such as sweepstakes, quizzes, coupons, airline miles and loyalty card
 
 New: techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes
-
----
-
-Gives the opportunity to for virtuous, positive feedback loops assuring a faster growth due to more innovative ideas and customer and community loyalty.
-Engagement creates network effects with extraordinary reach impacting customers and the entire external ecosystem and can be used to boost collaboration, innoovation and loyalty of employees.
-
-Examples: Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
 
 ---
 
@@ -470,12 +463,14 @@ Engagement is a key element for scaling the organization in crowd and community 
 <u>SCALE Attribute:</u> Algorithms
 
 ---
+
 <<<<<<< HEAD
 
-Logo einfügen
-=======
 # Logo einfügen
->>>>>>> 2f321559e234637220ad2ed3f1b6bb3821109d36
+
+# Logo einfügen
+
+> > > > > > > 2f321559e234637220ad2ed3f1b6bb3821109d36
 
 <u>GitHub Interface:</u> Version control system ​
 
