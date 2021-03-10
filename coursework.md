@@ -470,12 +470,7 @@ Engagement is a key element for scaling the organization in crowd and community 
 <u>SCALE Attribute:</u> Algorithms
 
 ---
-<<<<<<< HEAD
-
-Logo einfügen
-=======
 # Logo einfügen
->>>>>>> 2f321559e234637220ad2ed3f1b6bb3821109d36
 
 <u>GitHub Interface:</u> Version control system ​
 
