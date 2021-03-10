@@ -370,14 +370,6 @@ HeroX allows companies to create their own challenges to solve local and global 
 
 ---
 
-An incentive prize is a clear, measurable and objective goal and is a remuneration for the team that first reaches the objective.
-
-Competitions deliver huge leverage and efficiency and have the ability to transform industries.
-
-Creation of peripheral innovation, leading numerous competitors to race towards a common goal.
-
----
-
 Positive side effect of engagement is TRAINING
 
 Complexity of some games provide education in leadership and teamwork skills.
