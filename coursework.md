@@ -338,20 +338,6 @@ Jane McGonigal
 
 ---
 
-Game to map human brain
-
-Other Examples: MalariaSpot, GalaxyZoo and Foldit
-
----
-
-Game techniques:
-
-- <em>Dynamics</em> motivate behavior
-- <em>Mechanics</em> help achieve goals
-- <em>Components</em> track progress
-
----
-
 Gamification used as a hiring tool
 
 Example: Google and Domino's Pizza
