@@ -202,8 +202,8 @@ Staff on Demand = managed
 Crowd = pull-based
 
 ---
+<span style="color:#42affa">How to leverage the crowd?</span> 
 
-How to leverage the crowd?
 
 1. Creativity innovation - generate, develop and communicate new ideas by using tools and platforms
 2. Validation - obtain measurable evidence about products' and services' success
