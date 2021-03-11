@@ -525,7 +525,13 @@ Collaborative tools, such as file sharing, activity streams, wikis, telepresence
 
 ### <span style="color:#42affa">7 Key elements</span>
 
-GIF einfügen
+1. Social objects
+2. Activity streams
+3. Task management
+4. File sharing
+5. Telepresence
+6. Virtual worlds
+7. Emotional sharing
 
 ---
 
