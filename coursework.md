@@ -388,14 +388,15 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-### <span style="color:#42affa">Examples</span>
+<img src="uber.png" alt="uber" height="200"/>
 
-| <span style="color:#42affa">_UBER_</span>                                          | <span style="color:#42affa">_TED_</span>                    |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| <sub>Interface: Driver selection </sub>                                            | <sub> Interface: Video translation subtitles</sub>          |
-| <sub>Description: System to allow users to find and choose drivers</sub>           | <sub> Description: Manage translations </sub>               |
-| <sub>Internal Usage: Algorithm matches best/closest driver to user location​</sub> | <sub>Internal Usage: Integrate TED Talks translation </sub> |
-| <sub>SCALE Attribute: Algorithm​ </sub>                                            | <sub>SCALE Attribute: Community & Crowd</sub>               |
+<span style="color:#8dcffc"><u>Interface:</u></span> Driver selection
+
+<span style="color:#8dcffc"><u>Description:</u></span> System to allow users to find and choose drivers ​
+
+<span style="color:#8dcffc"><u>Internal Usage:</u></span> Algorithm matches best/closest driver to user location
+
+<span style="color:#8dcffc"><u>SCALE Attribute:</u></span> Algorithms
 
 ---
 
