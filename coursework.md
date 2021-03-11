@@ -200,15 +200,6 @@ Chris Anderson
 
 ---
 
-### <span style="color:#42affa">Results of <em>Staff on Demand</em> and <em>Community & Crowd</em></span>
-
-Core FTEs become smaller<br>
-Flexible workforce larger
-
-Increased agility and better in learning and unlearning thanks to diversity and volume of flexible workforce
-
----
-
 | <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | --------------------------------------------------- | ------------------------------------------------------------------ |
 | <sub>• Increased loyalty</sub>                      | <sub> • MTP                                                        |
@@ -291,11 +282,13 @@ Leasing everything has been used to shift assets from balance sheet
 
 <img src="airbnb.png" alt="airbnb" height="150"/>
 
-Airbnb offers accommodations without owning them. The real estates are considered shared assets
+Airbnb offers accommodations without owning them.
+
+Real estates 🏘️ = shared assets
 
 <img src="uber.png" alt="uber" height="100"/>
 
-Car🚗 = shared asset
+Car 🚗 = shared asset
 
 ---
 
