@@ -15,8 +15,8 @@ David S. Rose
 ### <span style="color:#42affa">Ray Kurzweil's findings:</span>
 
 - Law of Accelerating Returns (LOAR) based on Moore's Law
-- Once the doubling pattern starts, it doesn't stop
 - Information-enabled and driven objects double their price/performance annually
+- Once the doubling pattern starts, it doesn't stop
 - Modern key technologies are information-enabled and follow the same trajectory
 
 ---
