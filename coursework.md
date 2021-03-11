@@ -4,6 +4,8 @@
 
 ## 👭
 
+---
+
 <span style="color:#8dcffc">_"Any company designed for success in the 20<sup>th</sup> century is doomed to failure in the 21<sup>st</sup>."_</span>
 
 David S. Rose
@@ -127,7 +129,7 @@ Creation of an ecosystem
 
 ---
 
-### <span style="color:#42affa">Staff on Demand</span>
+### <span style="color:#42affa">Staff on Demand 🧑🧑🧑🧑</span>
 
 ###### <span style="color:#bee4fd">Rent, don't own!</span>
 
@@ -168,7 +170,9 @@ Large internal staff is like an anchor for a ship
 
 ---
 
-### <span style="color:#42affa">Community and Crowd</span>
+### <span style="color:#42affa">Community and Crowd 👨‍👩‍👧‍👦👨‍👩‍👧‍👦</span>
+
+<br>
 
 <span style="color:#8dcffc">_"If you build communities and you do things in public, you don't have to find the right people, they find you"_</span>
 
@@ -190,15 +194,15 @@ Chris Anderson
 
 ### <span style="color:#42affa">How to leverage the crowd?</span>
 
-1. <span style="color:#8dcffc">Creativity innovation</span> - generate, develop and communicate new ideas by using tools and platforms
-2. <span style="color:#8dcffc">Validation</span> - obtain measurable evidence about products' and services' success
-3. <span style="color:#8dcffc">Crowdfunding</span>- help funding ideas using the internet to assemble many small investors (democratization of access to working capital)
+1. <span style="color:#8dcffc">Creativity innovation</span> - use tools and platforms
+2. <span style="color:#8dcffc">Validation</span> - obtain measurable evidence about success
+3. <span style="color:#8dcffc">Crowdfunding</span>- democratization of access to working capital
 
 ---
 
 ### <span style="color:#42affa">Results of <em>Staff on Demand</em> and <em>Community & Crowd</em></span>
 
-Core FTEs become smaller
+Core FTEs become smaller<br>
 Flexible workforce larger
 
 Increased agility and better in learning and unlearning thanks to diversity and volume of flexible workforce
@@ -215,9 +219,9 @@ Increased agility and better in learning and unlearning thanks to diversity and 
 
 ---
 
-### <span style="color:#42affa">Algorithms</span>
+### <span style="color:#42affa">Algorithms 🔀</span>
 
-Today the world is run by algorithms:
+Today used for:
 
 - Automotive anti-lock braking
 - Recommendation engine of Amazon
@@ -242,8 +246,6 @@ Companies are matched with algorithms that can potentially make sense of their d
 
 - <span style="color:#8dcffc"><em>Machine learning</em></span> based on training or historical data
 - <span style="color:#8dcffc"><em>Deep learning</em></span> based on neural net technology
-
-PICs with examples
 
 ---
 
@@ -277,7 +279,7 @@ PICs with examples
 
 ---
 
-### <span style="color:#42affa">Leveraged Assets</span>
+### <span style="color:#42affa">Leveraged Assets 💰</span>
 
 Leasing everything has been used to shift assets from balance sheet
 
@@ -314,11 +316,11 @@ Non-ownership is the key to owning the future, except, when it comes to scarce r
 
 ---
 
-### <span style="color:#42affa">Engagement</span>
+### <span style="color:#42affa">Engagement 💍</span>
 
-<u>Past:</u> Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
+<span style="color:#8dcffc"><u>Past:</u></span> Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
 
-<u>Present:</u> techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
+<span style="color:#8dcffc"><u>Present:</u></span> techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
 
 <img src="google.png" alt="google" height="70"/> <img src="uber.png" alt="uber" height="70"/> <img src="airbnb.png" alt="airbnb" height="70"/> <img src="github.png" alt="github" height="70"/>
 
@@ -385,7 +387,7 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-### <span style="color:#42affa">Interfaces</span>
+### <span style="color:#42affa">Interfaces 🔗</span>
 
 - Customised filtering and matching processes to process output of external attributes into internal organisation, using algorithms and workflow software
 
@@ -406,25 +408,25 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 <img src="gogglelogo.gif" alt="cisco" height="200"/>
 
-<u>Interface:</u> AdWords
+<span style="color:#8dcffc"><u>Interface:</u></span> AdWords
 
-<u>Description:</u> User picks keywords to advertise against ​
+<span style="color:#8dcffc"><u>Description:</u></span> User picks keywords to advertise against ​
 
-<u>Internal Usage:</u> Google places ads against search results ​
+<span style="color:#8dcffc"><u>Internal Usage:</u></span> Google places ads against search results ​
 
-<u>SCALE Attribute:</u> Algorithms
+<span style="color:#8dcffc"><u>SCALE Attribute:</u></span> Algorithms
 
 ---
 
 <img src="github.png" alt="github" height="100"/>
 
-<u>Interface:</u> Version control system ​
+<span style="color:#8dcffc"><u>Interface:</u></span> Version control system ​
 
-<u>Description:</u> Multiple coders updating software sequentially and in parallel ​
+<span style="color:#8dcffc"><u>Description:</u></span> Multiple coders updating software sequentially and in parallel ​
 
-<u>Internal Usage:</u> Platform keeps all contributions in sync ​
+<span style="color:#8dcffc"><u>Internal Usage:</u></span> Platform keeps all contributions in sync ​
 
-<u>SCALE Attribute:</u> Community & Crowd
+<span style="color:#8dcffc"><u>SCALE Attribute:</u></span> Community & Crowd
 
 ---
 
@@ -436,7 +438,7 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-### <span style="color:#42affa">Dashboards</span>
+### <span style="color:#42affa">Dashboards ⏱️</span>
 
 Track and monitor performance using real-time metrics & performance tracking techniques (i.e. OKR)
 
@@ -515,7 +517,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 ---
 
-### <span style="color:#42affa">Social Technologies</span>
+### <span style="color:#42affa">Social Technologies 📱💻</span>
 
 Collaborative tools, such as file sharing, activity streams, wikis, telepresence, virtual reality and emotional sensing to manage real time, zero latency conversations
 
