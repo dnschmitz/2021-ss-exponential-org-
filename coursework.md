@@ -94,9 +94,9 @@ capture <span style="color:red">❤️</span> and <span style="color:pink">🧠<
 
 ---
 
-MTP must be unique and is advantageous to first movers
+##### <span style="color:#8dcffc">MTP of Cisco's competitor?</span><br>
 
-"We're <em>also</em> going to organize the world's information, but better."
+~~"We're <em>**also**</em> going to organize the world's information, but better."~~
 
 ---
 
@@ -160,6 +160,14 @@ Large internal staff is like an anchor for a ship
 
 ---
 
+| <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| --------------------------------------------------- | ------------------------------------------------------------------ |
+| <sub>• Enables learning</sub>                       | <sub> • Interfaces to manage SoD                                   |
+| <sub>• Allows agility</sub>                         | <sub> • Clear task specifications                                  |
+| <sub>• Forms stronger bonds among core team</sub>   |                                                                    |
+
+---
+
 ### <span style="color:#42affa">Community and Crowd</span>
 
 <span style="color:#8dcffc">_"If you build communities and you do things in public, you don't have to find the right people, they find you"_</span>
@@ -168,9 +176,7 @@ Chris Anderson
 
 ---
 
-Community
-
-Core team members + alumni + partners + vendors + customers + users + fans
+![crowd&community](crowd&community.png)
 
 ---
 
@@ -180,33 +186,32 @@ Core team members + alumni + partners + vendors + customers + users + fans
 2. Nurture the community
 3. Create a platform to automate peer-to-peer engagement
 
-To start for companies it's easier to join an existing community that shares the same MTP
+---
+
+### <span style="color:#42affa">How to leverage the crowd?</span>
+
+1. <span style="color:#8dcffc">Creativity innovation</span> - generate, develop and communicate new ideas by using tools and platforms
+2. <span style="color:#8dcffc">Validation</span> - obtain measurable evidence about products' and services' success
+3. <span style="color:#8dcffc">Crowdfunding</span>- help funding ideas using the internet to assemble many small investors (democratization of access to working capital)
 
 ---
 
-Crowd
-
-Concentric rings of people outside the core community. Crowd is harder to reach but the numbers are greater<br>
-Crowd is pull-based, while Staff on Demand is managed
-
-PIC
-
----
-
-<span style="color:#42affa">How to leverage the crowd?</span>
-
-1. Creativity innovation - generate, develop and communicate new ideas by using tools and platforms
-2. Validation - obtain measurable evidence about products' and services' success
-3. Crowdfunding - help funding ideas using the internet to assemble many small investors (democratization of access to working capital)
-
----
-
-### Results of <em>Staff on Demand</em> and <em>Community & Crowd</em>
+### <span style="color:#42affa">Results of <em>Staff on Demand</em> and <em>Community & Crowd</em></span>
 
 Core FTEs become smaller
 Flexible workforce larger
 
 Increased agility and better in learning and unlearning thanks to diversity and volume of flexible workforce
+
+---
+
+| <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| --------------------------------------------------- | ------------------------------------------------------------------ |
+| <sub>• Increased loyalty</sub>                      | <sub> • MTP                                                        |
+| <sub>• Allows exponential growth</sub>              | <sub> • Engagement                                                 |
+| <sub>• New ideas and learning</sub>                 | <sub> • Authentic and transparent leadership</sub>                 |
+| <sub>• Agility and rapid implementation</sub>       | <sub> • Low threshold to participate                               |
+| <sub>• Amplifies ideation</sub>                     | <sub> • P2P value creation                                         |
 
 ---
 
@@ -233,18 +238,16 @@ Companies are matched with algorithms that can potentially make sense of their d
 
 ---
 
-Two types of algorithms:
+### <span style="color:#42affa">Two types of algorithms:</span>
 
-- <em>Machine learning</em> based on training or historical data
-- <em>Deep learning</em> based on neural net technology
+- <span style="color:#8dcffc"><em>Machine learning</em></span> based on training or historical data
+- <span style="color:#8dcffc"><em>Deep learning</em></span> based on neural net technology
 
 PICs with examples
 
-Technology will make most products and services more effective, personalized and efficient impacting and disrupting many white-collar jobs.
-
 ---
 
-AI and algorithms compensate many heuristics in human cognition:
+### <span style="color:#42affa">AI and algorithms compensate many heuristics in human cognition:</span>
 
 - Anchoring bias
 - Availability bias
@@ -256,12 +259,21 @@ AI and algorithms compensate many heuristics in human cognition:
 
 ---
 
-How can ExOs implement algorithms?
+### <span style="color:#42affa">How can ExOs implement algorithms?</span>
 
-1. <strong>Gather</strong> data via sensors, humans or import them from public databases
-2. <strong>Organize</strong> the data --> ETL (Extract, Transform and Load)
-3. <strong>Apply</strong> machine learning tools (eg. Hadoop and Pivotal) or deep learning algorithms (eg. DeepMind, Vicarious and SkyMind)
-4. <strong>Expose</strong> the data and APIs to the ExO community to develop new services, functionalities and innovation on top of the existing platform
+1. <span style="color:#8dcffc"><strong>Gather</strong></span> data
+2. <span style="color:#8dcffc"><strong>Organize</strong></span> the data ➡️ ETL (Extract, Transform and Load)
+3. <span style="color:#8dcffc"><strong>Apply</strong></span> tools or algorithms
+4. <span style="color:#8dcffc"><strong>Expose</strong></span> the data and APIs to the ExO community
+
+---
+
+| <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| --------------------------------------------------- | ------------------------------------------------------------------ |
+| <sub>• Allows fully scalable products</sub>         |                                                                    |
+| <sub>• Leverages connected IT-hardware</sub>        | <sub> • Machine or Deep Learning                                   |
+| <sub>• Lower error rate stabilizes growth</sub>     | <sub> • Cultural acceptance                                        |
+| <sub>• Easily updated</sub>                         |                                                                    |
 
 ---
 
@@ -269,29 +281,36 @@ How can ExOs implement algorithms?
 
 Leasing everything has been used to shift assets from balance sheet
 
-| <span style="color:#42affa">Past</span> | <span style="color:#42affa">Present</span> |
+| <span style="color:#8dcffc">Past</span> | <span style="color:#8dcffc">Present</span> |
 | :-------------------------------------: | :----------------------------------------: |
 |         Buildings and machinery         |          Mission-critical assets           |
 
 ---
 
-### <span style="color:#42affa">Example of TechShop</span>
+<img src="airbnb.png" alt="airbnb" height="150"/>
 
-Collects expensive manufacturing machinery and offers subscribers a small monthly fee (<span>$</span>125 to <span>$</span>175, depending on the location) for unlimited access to its assets
+Airbnb offers accommodations without owning them. The real estates are considered shared assets
 
-Like gyms for expensive exercise equipment
+<img src="uber.png" alt="uber" height="100"/>
+
+Car🚗 = shared asset
 
 ---
 
 Non-ownership is the key to owning the future, except, when it comes to scarce resources and assets.
 
-Tesla owns its factories
+<img src="tesla.png" alt="tesla" height="100"/> owns its factories
 
-Amazon owns its warehouses
+<img src="amazon.png" alt="amazon" height="100"/> owns its warehouses
 
 ---
 
-When assets are information-based or commoditized at all, accessing is better than possessing.
+| <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
+| --------------------------------------------------- | ------------------------------------------------------------------ |
+| <sub>• Allows scalable products</sub>               | <sub>                                                              |
+| <sub>• Lower marginal cost of supply</sub>          | <sub> • Abundance or easily available assets                       |
+| <sub>• Reduces asset management</sub>               | <sub> • Interfaces                                                 |
+| <sub>• Increases agility</sub>                      |                                                                    |
 
 ---
 
@@ -300,7 +319,8 @@ When assets are information-based or commoditized at all, accessing is better th
 <u>Past:</u> Sweepstakes, quizzes, coupons, airline miles and loyalty card --> "Employee of the Month" programmes
 
 <u>Present:</u> techniques have been fully information-enabled, elaborated and socialized, in form of digital reputation systems, games and incentive prizes<br>
-<u>Examples:</u> Google, Airbnb, Uber, eBay, Yelp, GitHub and Twitter
+
+<img src="google.png" alt="google" height="70"/> <img src="uber.png" alt="uber" height="70"/> <img src="airbnb.png" alt="airbnb" height="70"/> <img src="github.png" alt="github" height="70"/>
 
 ---
 
@@ -326,27 +346,36 @@ Jane McGonigal
 
 Gamification used as a hiring tool
 
-Example: Google and Domino's Pizza
+<img src="google.png" alt="google" height="100"/> <img src="domino's.png" alt="domino's" height="100"/>
+<br>
 
 Gamification to improve company's internal culture
 
-Example: Pep Boys
-
----
+<img src="pepboys.png" alt="pepboys" height="100"/>
+<br>
 
 Gamification to encourage competition
 
-Example: X Prize Foundation
-
-HeroX allows companies to create their own challenges to solve local and global issues.
+<img src="xprize.png" alt="xprize" height="100"/>
 
 ---
 
-Positive side effect of engagement is TRAINING
+### <span style="color:#42affa">Positive side effect of engagement is TRAINING</span>
 
 Complexity of some games provide education in leadership and teamwork skills.
 
 Becoming a WOW guild master = total-immersion course in leadership
+
+---
+
+| <span style="color:#42affa">_Why Important?_</span> | <span style="color:#42affa">_Dependencies or Prerequisites_</span>    |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| <sub>• Increases loyalty</sub>                      |                                                                       |
+| <sub>• Amplifies ideation</sub>                     |                                                                       |
+| <sub>• Converts crowd to community</sub>            | <sub> • MTP</sub>                                                     |
+| <sub>• Leverages marketing</sub>                    | <sub> • Clear, fair and consistent rules with no conflict of interest |
+| <sub>• Enables play and learning</sub>              |                                                                       |
+| <sub>• Digital feedback loops</sub>                 |                                                                       |
 
 ---
 
@@ -375,9 +404,7 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-### <span style="color:#42affa">Google's AdWords</span>
-
-<img src="gogglelogo.gif" alt="cisco" width="200"/>
+<img src="gogglelogo.gif" alt="cisco" height="200"/>
 
 <u>Interface:</u> AdWords
 
@@ -389,7 +416,9 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-<u>GitHub Interface:</u> Version control system ​
+<img src="github.png" alt="github" height="100"/>
+
+<u>Interface:</u> Version control system ​
 
 <u>Description:</u> Multiple coders updating software sequentially and in parallel ​
 
@@ -402,7 +431,7 @@ Becoming a WOW guild master = total-immersion course in leadership
 | <span style="color:#42affa">_Why Important?_</span>                                  | <span style="color:#42affa">_Dependencies or Prerequisites_</span> |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | <sub>• Filter external abundance into internal value</sub>                           | <sub> • Standardized processes to enable automation                |
-| •<sub> Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                     |
+| <sub>• Bridge between external growth drivers and internal stabilizing factors</sub> | <sub> • Scalable externalities                                     |
 | <sub>• Automation allows scalability</sub>                                           | <sub> • Algorithms (in most cases)</sub>                           |
 
 ---
@@ -450,7 +479,7 @@ Track and monitor performance using real-time metrics & performance tracking tec
 
 ---
 
-### <span style="color:#42affa">Autonomy</span>
+### <span style="color:#42affa">Autonomy 🔓</span>
 
 Self-organizing and multi-disciplinary teams operating with decentralized authority
 
@@ -469,7 +498,7 @@ Self-organizing and multi-disciplinary teams operating with decentralized author
 
 <img src="valve.png" alt="valve" width="300"/>
 
-Game Developer 🕹️
+<span style="color:#42affa">Game Developer 🕹️</span>
 
 - No managers, but 400 employees
 - Freedom to create without having to worry about the consequences of failure
@@ -492,7 +521,7 @@ Collaborative tools, such as file sharing, activity streams, wikis, telepresence
 
 ---
 
-### 7 Key elements
+### <span style="color:#42affa">7 Key elements</span>
 
 GIF einfügen
 
@@ -514,12 +543,12 @@ GIF einfügen
 | <sub>Driven by financial outcomes</sub>                  | <sub>MTP, dashboard</sub>                |
 | <sub>Linear, sequential thinking</sub>                   | <sub>Experimentation, autonomy</sub>     |
 | <sub>Innovation primarily from within</sub>              | <sub>Innovation at the edges</sub>       |
+| <sub>Strategic planning = past extrapolation</sub>       | <sub>MTP, Experimentation</sub>          |
 
 ---
 
 | <span style="color:#42affa">_Linear Organisation_</span> | <span style="color:#42affa">_ExO_</span>                  |
 | -------------------------------------------------------- | --------------------------------------------------------- |
-| <sub>Strategic planning = past extrapolation</sub>       | <sub>MTP, Experimentation</sub>                           |
 | <sub>Risk intolerance</sub>                              | <sub>Experimentation</sub>                                |
 | <sub>Process inflexibility</sub>                         | <sub>Autonomy, experimentation</sub>                      |
 | <sub>Large number of FTEs</sub>                          | <sub>Algorithms, community & crowd, staff on demand</sub> |
