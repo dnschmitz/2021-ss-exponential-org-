@@ -143,6 +143,12 @@ Creation of an ecosystem
 
 ---
 
+Large internal staff is like an anchor for a ship
+
+![Anchor](Anchor.gif)
+
+---
+
 <img src="gigwalk.png" alt="gigwalk" width="200"/>
 
 Platform to find easily and fast large numbers of "employees" for small tasks
@@ -153,12 +159,6 @@ Platform to find easily and fast large numbers of "employees" for small tasks
 
 Platform that hosts private and public algorithm contests<br>
 More than 185'000 data scientists worldwide vie for prizes and recognition
-
----
-
-Large internal staff is like an anchor for a ship
-
-![Anchor](Anchor.gif)
 
 ---
 
