@@ -388,7 +388,7 @@ Becoming a WOW guild master = total-immersion course in leadership
 
 ---
 
-<img src="uber.png" alt="uber" height="200"/>
+<img src="uber.png" alt="uber" height="150"/>
 
 <span style="color:#8dcffc"><u>Interface:</u></span> Driver selection
 
